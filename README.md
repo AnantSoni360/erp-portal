@@ -68,5 +68,25 @@ The application includes pre-configured accounts with an instant role-switching 
 * **Backend:** Python 3.12, FastAPI, Uvicorn ASGI server.
 * **Database & ORM:** SQLite / PostgreSQL, SQLAlchemy 2.0.
 * **Authentication:** JWT (JSON Web Tokens), Bcrypt password hashing.
-* **Excel & PDF Processing:** OpenPyXL, Pandas, ReportLab.
+* **Excel & PDF Processing:** OpenPyXL, ReportLab.
 * **Containerization:** Docker & Docker Compose (`docker-compose.yml`).
+
+---
+
+## Deploying to Vercel
+
+The repository is fully pre-configured for **Vercel** with `vercel.json` routing, static frontend bundling, and serverless Python API handlers.
+
+### Step-by-Step Vercel Deployment:
+1. Log in to [Vercel](https://vercel.com).
+2. Click **Add New...** -> **Project**.
+3. Select and import the GitHub repository: **`AnantSoni360/erp-portal`**.
+4. In the **Configure Project** screen:
+   - **Framework Preset:** Other / Vite (Auto-detected via `vercel.json`).
+   - **Root Directory:** `./` (leave default).
+   - **Environment Variables (Optional for Cloud DB):**
+     - `SECRET_KEY`: `your-custom-production-jwt-secret`
+     - `DATABASE_URL`: (Optional) PostgreSQL URL (e.g. from Neon.tech, Supabase, or Vercel Postgres) for cloud-native multi-user persistence. If omitted, the seeded SQLite database runs in serverless storage.
+5. Click **Deploy**.
+6. In ~60 seconds, your MMTPL ERP Portal will be live with a free `.vercel.app` production domain!
+
