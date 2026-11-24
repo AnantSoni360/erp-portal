@@ -25,6 +25,21 @@ if _DB_ENV:
         _RESOLVED_DB_URL = _DB_ENV.replace("postgres://", "postgresql://", 1)
     else:
         _RESOLVED_DB_URL = _DB_ENV
+
+    # Auto-resolve direct Supabase URL to IPv4 Transaction Pooler URL
+    import re
+    m = re.match(r"postgresql://([^:]+):([^@]+)@db\.([a-z0-9]+)\.supabase\.co:(\d+)/(.+)", _RESOLVED_DB_URL)
+    if m:
+        _user = m.group(1)
+        _pwd = m.group(2)
+        _proj = m.group(3)
+        _db = m.group(5).split("?")[0]
+        _RESOLVED_DB_URL = f"postgresql://{_user}.{_proj}:{_pwd}@aws-0-ap-southeast-2.pooler.supabase.com:6543/{_db}"
+
+    # Ensure sslmode=require for cloud PostgreSQL
+    if "sslmode=" not in _RESOLVED_DB_URL:
+        _sep = "&" if "?" in _RESOLVED_DB_URL else "?"
+        _RESOLVED_DB_URL = f"{_RESOLVED_DB_URL}{_sep}sslmode=require"
 else:
     _RESOLVED_DB_URL = f"sqlite:///{_DB_TARGET.as_posix()}"
 

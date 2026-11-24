@@ -8,8 +8,11 @@ from app.config import settings
 from app.database import engine, Base
 from app.routers import auth, dashboard, materials, inward, transactions, contractors, verification, reports, audit
 
-# Ensure database tables exist
-Base.metadata.create_all(bind=engine)
+# Safely ensure database tables exist without crashing on cold starts
+try:
+    Base.metadata.create_all(bind=engine)
+except Exception as _e:
+    print(f"Startup notice: Table creation skipped or existing: {_e}")
 
 app = FastAPI(
     title=settings.PROJECT_NAME,
@@ -28,23 +31,34 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Include API Routers
-app.include_router(auth.router, prefix=settings.API_V1_STR)
-app.include_router(dashboard.router, prefix=settings.API_V1_STR)
-app.include_router(materials.router, prefix=settings.API_V1_STR)
-app.include_router(inward.router, prefix=settings.API_V1_STR)
-app.include_router(transactions.router, prefix=settings.API_V1_STR)
-app.include_router(contractors.router, prefix=settings.API_V1_STR)
-app.include_router(verification.router, prefix=settings.API_V1_STR)
-app.include_router(reports.router, prefix=settings.API_V1_STR)
-app.include_router(audit.router, prefix=settings.API_V1_STR)
+# Include API Routers (Mount with /api and also root for flexible routing)
+_all_routers = [auth.router, dashboard.router, materials.router, inward.router, 
+                transactions.router, contractors.router, verification.router, reports.router, audit.router]
+
+for r in _all_routers:
+    app.include_router(r, prefix=settings.API_V1_STR)
+    app.include_router(r)
 
 @app.get("/health")
+@app.get("/api/health")
 def health_check():
+    db_ok = True
+    err_msg = None
+    try:
+        from sqlalchemy import text
+        with engine.connect() as conn:
+            conn.execute(text("SELECT 1"))
+    except Exception as e:
+        db_ok = False
+        err_msg = str(e)
+
     return {
-        "status": "healthy",
+        "status": "healthy" if db_ok else "database_connection_error",
         "service": settings.PROJECT_NAME,
-        "database": settings.DATABASE_URL.split("://")[0]
+        "database_connected": db_ok,
+        "database_type": settings.DATABASE_URL.split("://")[0],
+        "database_host": settings.DATABASE_URL.split("@")[-1].split("/")[0] if "@" in settings.DATABASE_URL else "local_sqlite",
+        "error": err_msg
     }
 
 # Mount static frontend build if present
