@@ -3,7 +3,13 @@
   "builds": [
     {
       "src": "api/index.py",
-      "use": "@vercel/python"
+      "use": "@vercel/python",
+      "config": {
+        "includeFiles": [
+          "backend/**",
+          "mmtpl_store.db"
+        ]
+      }
     },
     {
       "src": "frontend/package.json",
@@ -23,8 +29,12 @@
       "dest": "/frontend/assets/$1"
     },
     {
-      "src": "/(.*)",
+      "src": "/(.*\\.[a-zA-Z0-9]+)$",
       "dest": "/frontend/$1"
+    },
+    {
+      "src": "/.*",
+      "dest": "/frontend/index.html"
     }
   ]
 }
