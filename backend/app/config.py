@@ -19,13 +19,22 @@ if os.getenv("VERCEL"):
 else:
     _DB_TARGET = _DEFAULT_DB
 
+_DB_ENV = os.getenv("DATABASE_URL")
+if _DB_ENV:
+    if _DB_ENV.startswith("postgres://"):
+        _RESOLVED_DB_URL = _DB_ENV.replace("postgres://", "postgresql://", 1)
+    else:
+        _RESOLVED_DB_URL = _DB_ENV
+else:
+    _RESOLVED_DB_URL = f"sqlite:///{_DB_TARGET.as_posix()}"
+
 class Settings(BaseSettings):
     PROJECT_NAME: str = "MMTPL Store & Inventory Management ERP Portal"
     API_V1_STR: str = "/api"
     SECRET_KEY: str = os.getenv("SECRET_KEY", "mmtpl-secret-key-store-inventory-management-2026")
     ALGORITHM: str = "HS256"
     ACCESS_TOKEN_EXPIRE_MINUTES: int = 60 * 24  # 1 day
-    DATABASE_URL: str = os.getenv("DATABASE_URL", f"sqlite:///{_DB_TARGET.as_posix()}")
+    DATABASE_URL: str = _RESOLVED_DB_URL
     EXCEL_FILE_PATH: str = os.getenv("EXCEL_FILE_PATH", str((_ROOT_DIR / "MMTPL_Store_Tracker.xlsx").resolve()))
 
     class Config:
