@@ -43,6 +43,9 @@ if _DB_ENV:
 else:
     _RESOLVED_DB_URL = f"sqlite:///{_DB_TARGET.as_posix()}"
 
+# Critical: Update os.environ so Pydantic BaseSettings uses the resolved URL
+os.environ["DATABASE_URL"] = _RESOLVED_DB_URL
+
 class Settings(BaseSettings):
     PROJECT_NAME: str = "MMTPL Store & Inventory Management ERP Portal"
     API_V1_STR: str = "/api"
@@ -56,3 +59,4 @@ class Settings(BaseSettings):
         case_sensitive = True
 
 settings = Settings()
+settings.DATABASE_URL = _RESOLVED_DB_URL
