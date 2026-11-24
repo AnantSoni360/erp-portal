@@ -1,0 +1,21 @@
+{
+  "validation_report": {
+    "timestamp": "2026-11-24T13:08:22.863863",
+    "missing_item_ids_unassigned": 1816,
+    "duplicate_materials": 0,
+    "invalid_quantities": 0,
+    "unmapped_contractors": 0,
+    "historical_negative_stock_items": 62,
+    "total_materials_imported": 849,
+    "total_inward_imported": 1545,
+    "total_contractor_tx_imported": 6103,
+    "anomalies_detected": []
+  },
+  "reconciliation": {
+    "total_items": 849,
+    "exact_matches": 849,
+    "match_rate_percent": 100.0,
+    "mismatches_count": 0,
+    "sample_mismatches": []
+  }
+}
