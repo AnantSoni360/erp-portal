@@ -12,6 +12,8 @@ class MaterialMaster(Base):
     unit = Column(String(50), nullable=False)
     reorder_level = Column(Float, nullable=True)
     opening_stock = Column(Float, default=0.0)
+    standard_unit_price = Column(Float, default=0.0)  # Unit purchase price in INR
+    category_type = Column(String(20), default="Consumable")  # 'Asset' vs 'Consumable'
     is_active = Column(Boolean, default=True)
     created_at = Column(DateTime, default=datetime.utcnow)
     updated_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
@@ -110,3 +112,97 @@ class User(Base):
     password_hash = Column(String(255), nullable=False)
     is_active = Column(Boolean, default=True)
     created_at = Column(DateTime, default=datetime.utcnow)
+
+
+class VendorMaster(Base):
+    __tablename__ = "vendors"
+
+    vendor_code = Column(String(20), primary_key=True, index=True)
+    name = Column(String(150), nullable=False, index=True)
+    contact_person = Column(String(100), nullable=True)
+    phone = Column(String(50), nullable=True)
+    email = Column(String(100), nullable=True)
+    address = Column(Text, nullable=True)
+    city = Column(String(50), nullable=True)
+    state = Column(String(50), nullable=True)
+    gstin = Column(String(30), nullable=True)
+    bank_name = Column(String(100), nullable=True)
+    account_no = Column(String(50), nullable=True)
+    ifsc = Column(String(30), nullable=True)
+    branch = Column(String(100), nullable=True)
+    payment_terms = Column(String(150), nullable=True)
+    is_active = Column(Boolean, default=True)
+    created_at = Column(DateTime, default=datetime.utcnow)
+
+    purchase_orders = relationship("PurchaseOrder", back_populates="vendor")
+
+
+class PurchaseOrder(Base):
+    __tablename__ = "purchase_orders"
+
+    po_no = Column(String(50), primary_key=True, index=True)
+    po_date = Column(DateTime, nullable=False, index=True)
+    vendor_code = Column(String(20), ForeignKey("vendors.vendor_code"), nullable=False, index=True)
+    work_order_no = Column(String(50), nullable=True)
+    project_site = Column(Text, default="Coke Oven/Lloyds Metals, Ghugus, MH")
+    total_taxable = Column(Float, default=0.0)
+    sgst_amount = Column(Float, default=0.0)
+    cgst_amount = Column(Float, default=0.0)
+    igst_amount = Column(Float, default=0.0)
+    gross_amount = Column(Float, default=0.0)
+    payment_terms = Column(Text, nullable=True)
+    delivery_terms = Column(Text, nullable=True)
+    prepared_by = Column(String(100), default="Abhishek Soni {Planning/Purchase}")
+    notes = Column(Text, nullable=True)
+    status = Column(String(30), default="Approved", index=True)  # 'Approved', 'Partially Received', 'Fulfilled'
+    created_at = Column(DateTime, default=datetime.utcnow)
+
+    vendor = relationship("VendorMaster", back_populates="purchase_orders")
+    items = relationship("PurchaseOrderItem", back_populates="purchase_order", cascade="all, delete-orphan")
+
+
+class PurchaseOrderItem(Base):
+    __tablename__ = "purchase_order_items"
+
+    id = Column(Integer, primary_key=True, autoincrement=True)
+    po_no = Column(String(50), ForeignKey("purchase_orders.po_no"), nullable=False, index=True)
+    sl_no = Column(Integer, nullable=False)
+    item_description = Column(Text, nullable=False)
+    gst_rate = Column(Float, default=0.18)
+    uom = Column(String(50), default="NOS")
+    qty = Column(Float, nullable=False, default=0.0)
+    unit_price = Column(Float, nullable=False, default=0.0)
+    taxable_value = Column(Float, nullable=False, default=0.0)
+    remarks = Column(Text, nullable=True)  # e.g. 'ASSET', 'CONSUMABLE'
+    received_qty = Column(Float, default=0.0)
+    linked_item_id = Column(String(50), ForeignKey("materials.item_id"), nullable=True, index=True)
+
+    purchase_order = relationship("PurchaseOrder", back_populates="items")
+    material = relationship("MaterialMaster")
+
+
+class ClientInvoice(Base):
+    __tablename__ = "client_invoices"
+
+    id = Column(Integer, primary_key=True, autoincrement=True)
+    invoice_no = Column(String(50), nullable=False, index=True)
+    sl_no = Column(Integer, nullable=True)
+    description = Column(Text, nullable=False)
+    bill_no = Column(String(50), nullable=True)
+    location = Column(String(100), default="Ghugus, Chandrapur, MH")
+    department = Column(String(50), nullable=True, index=True)  # 'REFRACTORY', 'MECHANICAL', 'HEATING JOB'
+    work_order_no = Column(String(50), nullable=False, index=True)
+    site = Column(String(50), default="LMEL")
+    bill_month = Column(String(50), nullable=True)
+    bill_date = Column(DateTime, nullable=True)
+    bill_amount = Column(Float, default=0.0)  # Taxable
+    sgst_amount = Column(Float, default=0.0)
+    cgst_amount = Column(Float, default=0.0)
+    gross_amount = Column(Float, default=0.0)
+    tds_amount = Column(Float, default=0.0)
+    gross_total_amount = Column(Float, default=0.0)
+    received_amount = Column(Float, default=0.0)
+    balance_amount = Column(Float, default=0.0)
+    status = Column(String(30), default="Billed", index=True)
+    created_at = Column(DateTime, default=datetime.utcnow)
+

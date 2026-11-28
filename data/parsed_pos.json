@@ -1,0 +1,7549 @@
+[
+  {
+    "sheet": "MMTPL - XXX (2nd)",
+    "po_no": "MMTPL/PO/LMEL/25-26/001",
+    "date": "2026-03-05",
+    "vendor": "R.J. Industrial Safety",
+    "payment_terms": "1) Payment Terms : @50% advance & balance 30 days",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 195430.0,
+    "items_count": 13,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "ARC WELDING MACHINE 400 AMP 1 Year warranty (Make Industrial Weld)",
+        "uom": "Nos",
+        "qty": 5.0,
+        "price": 29000.0,
+        "total": 29000.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 2,
+        "desc": "MIG MACHINE 400  15 MTR CABLE TORCH 1 Year warranty (Make Rillon)",
+        "uom": "Nos",
+        "qty": 1.0,
+        "price": 82500.0,
+        "total": 82500.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 3,
+        "desc": "WRE ROPE SLING 25MMX6MTRS",
+        "uom": "Nos",
+        "qty": 4.0,
+        "price": 4650.0,
+        "total": 4650.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 4,
+        "desc": "WRE ROPE SLING 19MMX6MTRS",
+        "uom": "Nos",
+        "qty": 4.0,
+        "price": 2850.0,
+        "total": 2850.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 5,
+        "desc": "WRE ROPE SLING 16MMX6MTRS",
+        "uom": "Nos",
+        "qty": 4.0,
+        "price": 2250.0,
+        "total": 2250.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 6,
+        "desc": "CHAIN PULLEY BLOCK-3T 6 mtr",
+        "uom": "Nos",
+        "qty": 1.0,
+        "price": 11930.0,
+        "total": 11930.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 7,
+        "desc": "CHAIN PULLEY BLOCK-2T 6 mtr",
+        "uom": "Nos",
+        "qty": 1.0,
+        "price": 9600.0,
+        "total": 9600.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 8,
+        "desc": "MOTHER OVEN",
+        "uom": "Nos",
+        "qty": 1.0,
+        "price": 26500.0,
+        "total": 26500.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 9,
+        "desc": "ELECTRICAL PANEL WITH BOARDS",
+        "uom": "Nos",
+        "qty": 1.0,
+        "price": 23500.0,
+        "total": 23500.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 10,
+        "desc": "SAFETY BELT(FULL BODY HARNES",
+        "uom": "Nos",
+        "qty": 10.0,
+        "price": 1650.0,
+        "total": 1650.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 11,
+        "desc": "WIRE ROPE 10MM(MTRS)",
+        "uom": "Mtr",
+        "qty": 100.0,
+        "price": 110.0,
+        "total": 110.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 12,
+        "desc": "WIRE ROPE CLAMP 10MM",
+        "uom": "Nos",
+        "qty": 20.0,
+        "price": 40.0,
+        "total": 40.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 13,
+        "desc": "CHAIN LINK 6 TON CAPACITY",
+        "uom": "Nos",
+        "qty": 8.0,
+        "price": 850.0,
+        "total": 850.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 001 REFRACTORY",
+    "po_no": "MMTPL/PO/LMEL/25-26/001",
+    "date": "2026-03-18",
+    "vendor": "SINTECH DIMAND TOOLS",
+    "payment_terms": "1) Payment Terms :  100% Advance before Dispatch",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 4100.0,
+    "items_count": 2,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "Brick Cutting Blade 16\" Diamond Segmented Saws",
+        "uom": "Nos",
+        "qty": 10.0,
+        "price": 3500.0,
+        "total": 3500.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "Transportation as per actual - VRL Logistic",
+        "uom": "Nos",
+        "qty": 1.0,
+        "price": 600.0,
+        "total": 600.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 002 MECHANICAL",
+    "po_no": "MMTPL/PO/LMEL/25-26/002",
+    "date": "2026-03-18",
+    "vendor": "RITESH HARDWARE STORES",
+    "payment_terms": "1) Payment Terms : @50% advance & balance 30 days",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 121548.0,
+    "items_count": 30,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "CHAIN PULLEY BLOCK-3T 6 mtr isi Safelift",
+        "uom": "NOS",
+        "qty": 3.0,
+        "price": 19500.0,
+        "total": 19500.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 2,
+        "desc": "CHAIN PULLEY BLOCK-2T 6 mtr isi Safelift",
+        "uom": "NOS",
+        "qty": 3.0,
+        "price": 16710.0,
+        "total": 16710.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 3,
+        "desc": "MOTHER OVEN make HMP isi",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 25500.0,
+        "total": 25500.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 4,
+        "desc": "ELECTRICAL PANEL WITH BOARDS",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 4700.0,
+        "total": 4700.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 5,
+        "desc": "SAFETY BELT(FULL BODY HARNES",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 1700.0,
+        "total": 1700.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 6,
+        "desc": "WIRE ROPE 10MM(MTRS)",
+        "uom": "MTRS",
+        "qty": 100.0,
+        "price": 88.0,
+        "total": 88.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 7,
+        "desc": "WIRE ROPE CLAMP 10MM",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 35.0,
+        "total": 35.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 8,
+        "desc": "NUMBER PUNCH SET-1/2''",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 6500.0,
+        "total": 6500.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 9,
+        "desc": "LETTER PUNCH SET-1/2''",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 2310.0,
+        "total": 2310.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 10,
+        "desc": "POWER CABLE 1.5 Sq. mm/2 core",
+        "uom": "ROLL",
+        "qty": 1.0,
+        "price": 3100.0,
+        "total": 3100.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 11,
+        "desc": "POWER CABLE  2.5Sq. mm/3 core",
+        "uom": "ROLL",
+        "qty": 2.0,
+        "price": 6500.0,
+        "total": 6500.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 12,
+        "desc": "POWER CABLE 4.0 Sq. mm/4 core",
+        "uom": "ROLL",
+        "qty": 2.0,
+        "price": 12000.0,
+        "total": 12000.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 13,
+        "desc": "INSULATION TAPE",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 10.0,
+        "total": 10.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 14,
+        "desc": "32 AMPS MALE/ FEMALE SOCKET",
+        "uom": "SET",
+        "qty": 10.0,
+        "price": 360.0,
+        "total": 360.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 15,
+        "desc": "16AMPS MALE/ FEMALE SOCKET",
+        "uom": "SET",
+        "qty": 10.0,
+        "price": 200.0,
+        "total": 200.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 16,
+        "desc": "100 WATTS LED HALOGEN",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 1800.0,
+        "total": 1800.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 17,
+        "desc": "WELDING ELECTRODES 6013-4.0MM D&H SECH",
+        "uom": "CASES",
+        "qty": 15.0,
+        "price": 2200.0,
+        "total": 2200.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 18,
+        "desc": "HAND GLOVES-Cotton",
+        "uom": "PAIR",
+        "qty": 50.0,
+        "price": 15.0,
+        "total": 15.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 19,
+        "desc": "HAND GLOVES-Leather",
+        "uom": "PAIR",
+        "qty": 25.0,
+        "price": 260.0,
+        "total": 260.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 20,
+        "desc": "LINE DORI",
+        "uom": "BDL",
+        "qty": 20.0,
+        "price": 10.0,
+        "total": 10.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 21,
+        "desc": "TEFLAN TAPE",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 10.0,
+        "total": 10.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 22,
+        "desc": "SYLICON SPRAY FOR MIG",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 260.0,
+        "total": 260.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 23,
+        "desc": "WELDING HOLDER",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 260.0,
+        "total": 260.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 24,
+        "desc": "DA REGULATOR hmp isi",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 3200.0,
+        "total": 3200.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 25,
+        "desc": "CUTTING NOZZLE-(D.A)-1/16",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 400.0,
+        "total": 400.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 26,
+        "desc": "CUTTING NOZZLE-(D.A)-3/64",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 400.0,
+        "total": 400.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 27,
+        "desc": "WRE ROPE SLING 25MMX6MTRS",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 5135.0,
+        "total": 5135.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 28,
+        "desc": "WRE ROPE SLING 19MMX6MTRS",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 3835.0,
+        "total": 3835.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 29,
+        "desc": "WRE ROPE SLING 16MMX6MTRS",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 2405.0,
+        "total": 2405.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 30,
+        "desc": "WRE ROPE SLING 16MMX4MTRS",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 2145.0,
+        "total": 2145.0,
+        "type": "ASSET"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 003 REFRACTORY",
+    "po_no": "MMTPL/PO/LMEL/25-26/003",
+    "date": "2026-03-19",
+    "vendor": "RITESH HARDWARE STORES",
+    "payment_terms": "1) Payment Terms : @50% advance & balance 30 days",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 47862.0,
+    "items_count": 27,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "Bending Wire",
+        "uom": "KGS",
+        "qty": 10.0,
+        "price": 75.0,
+        "total": 75.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "Measuring Tape 5 Mtrs",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 90.0,
+        "total": 90.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "Measuring Tape 50 Mtrs",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 850.0,
+        "total": 850.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "Spirit Level 24\"",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 650.0,
+        "total": 650.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 5,
+        "desc": "Aluminum Paata 6\"",
+        "uom": "NOS",
+        "qty": 24.0,
+        "price": 850.0,
+        "total": 850.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 6,
+        "desc": "GI Buckets 10L Havy",
+        "uom": "NOS",
+        "qty": 50.0,
+        "price": 350.0,
+        "total": 350.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 7,
+        "desc": "Coconut Bresh",
+        "uom": "NOS",
+        "qty": 100.0,
+        "price": 100.0,
+        "total": 100.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 8,
+        "desc": "Nails 1.5 inch",
+        "uom": "KGS",
+        "qty": 150.0,
+        "price": 75.0,
+        "total": 75.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 9,
+        "desc": "Linedori",
+        "uom": "ROLL",
+        "qty": 50.0,
+        "price": 10.0,
+        "total": 10.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 10,
+        "desc": "Hand Mortar Mixer",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 3900.0,
+        "total": 3900.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 11,
+        "desc": "Air Blower",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 2650.0,
+        "total": 2650.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 12,
+        "desc": "Safety belt",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 1700.0,
+        "total": 1700.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 13,
+        "desc": "21-23 ring spaners",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 160.0,
+        "total": 160.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 14,
+        "desc": "Pipe Cutting Machine ken polymak",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 9400.0,
+        "total": 9400.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 15,
+        "desc": "14 inch Cutting Blade double net",
+        "uom": "NOS",
+        "qty": 25.0,
+        "price": 125.0,
+        "total": 125.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 16,
+        "desc": "Power Cable 3core 2.5 SQM isi",
+        "uom": "ROLL",
+        "qty": 1.0,
+        "price": 6500.0,
+        "total": 6500.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 17,
+        "desc": "Power Cable 4 Core 4 SQM isi",
+        "uom": "ROLL",
+        "qty": 1.0,
+        "price": 12000.0,
+        "total": 12000.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 18,
+        "desc": "Hand Gloves gray",
+        "uom": "PAIR",
+        "qty": 1000.0,
+        "price": 25.0,
+        "total": 25.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 19,
+        "desc": "Dust Mask",
+        "uom": "NOS",
+        "qty": 500.0,
+        "price": 10.0,
+        "total": 10.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 20,
+        "desc": "Pencil Box",
+        "uom": "PACKET",
+        "qty": 25.0,
+        "price": 7.0,
+        "total": 7.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 21,
+        "desc": "Rubber Hand Gloves",
+        "uom": "PAIR",
+        "qty": 10.0,
+        "price": 55.0,
+        "total": 55.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 22,
+        "desc": "Rubber Apron (for Brick cutting Machine)",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 300.0,
+        "total": 300.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 23,
+        "desc": "Face Shield",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 180.0,
+        "total": 180.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 24,
+        "desc": "Web Sling 3 ton Capacity 5 miters",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 650.0,
+        "total": 650.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 25,
+        "desc": "Web Sling 3 ton Capacity 6 miters",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 750.0,
+        "total": 750.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 26,
+        "desc": "Wire rope sling 2T X 2 Mtrs",
+        "uom": "NOS",
+        "qty": 8.0,
+        "price": 1600.0,
+        "total": 1600.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 27,
+        "desc": "1 Hp Water Motor",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 4800.0,
+        "total": 4800.0,
+        "type": "ASSET"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 004 REFRACTORY clamp",
+    "po_no": "MMTPL/PO/LMEL/25-26/004",
+    "date": "2026-03-20",
+    "vendor": "RAJENDRA FABRICATION & ENGINEERING WORKS",
+    "payment_terms": "1) Payment Terms : @100% Payment",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 1770.0,
+    "items_count": 3,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "Forged Clamp Fixed",
+        "uom": "NOS",
+        "qty": 400.0,
+        "price": 135.0,
+        "total": 135.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "Forged Clamp Moveble",
+        "uom": "NOS",
+        "qty": 100.0,
+        "price": 135.0,
+        "total": 135.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "Transportation",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 1500.0,
+        "total": 1500.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 005 REFRACTORY Pipes ",
+    "po_no": "MMTPL/PO/LMEL/26-27/005",
+    "date": "2026-04-06",
+    "vendor": "RAJENDRA FABRICATION & ENGINEERING WORKS",
+    "payment_terms": "1) Payment Terms : @100% Payment",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 19757.0,
+    "items_count": 6,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "MS PIPE 48 OD X 2.9 MM LENGTH 6 MTR EACH PIPE APROX WT.20KG",
+        "uom": "NOS",
+        "qty": 200.0,
+        "price": 1120.0,
+        "total": 1120.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "Forged Fixed Clamp",
+        "uom": "NOS",
+        "qty": 1000.0,
+        "price": 130.0,
+        "total": 130.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "Forged  Moveable Clamps",
+        "uom": "NOS",
+        "qty": 100.0,
+        "price": 130.0,
+        "total": 130.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "Pipe Jointer",
+        "uom": "NOS",
+        "qty": 250.0,
+        "price": 77.0,
+        "total": 77.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 5,
+        "desc": "Loading",
+        "uom": "MT",
+        "qty": 5.5,
+        "price": 300.0,
+        "total": 300.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 6,
+        "desc": "Transport As per actual (approx)",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 18000.0,
+        "total": 18000.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 006 MECH ELECTRODE",
+    "po_no": "MMTPL/PO/LMEL/26-27/006",
+    "date": "2026-04-14",
+    "vendor": "RITESH HARDWARE STORES",
+    "payment_terms": "1) Payment Terms : @100% advance",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 6450.0,
+    "items_count": 3,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "Welding Electrode D&H Sechron 6013 - 4:00 mm",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 2150.0,
+        "total": 2150.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "Welding Electrode D&H Sechron 7018 - 3:15 mm",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 2100.0,
+        "total": 2100.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "Welding Electrode D&H Sechron 7018 - 4:00 mm",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 2200.0,
+        "total": 2200.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 007 REFRACTORY Pipe",
+    "po_no": "MMTPL/PO/LMEL/26-27/007",
+    "date": "2026-05-02",
+    "vendor": "RAJENDRA FABRICATION & ENGINEERING WORKS",
+    "payment_terms": "1) Payment Terms : @100% Payment",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 19470.0,
+    "items_count": 3,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "MS PIPE 48 OD X 2.9 MM LENGTH 6 MTR EACH PIPE APROX WT.20KG",
+        "uom": "NOS",
+        "qty": 300.0,
+        "price": 1170.0,
+        "total": 1170.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "Loading",
+        "uom": "MT",
+        "qty": 6.0,
+        "price": 300.0,
+        "total": 300.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "Transport As per actual (approx)",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 18000.0,
+        "total": 18000.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 008 REFRACTORY ",
+    "po_no": "MMTPL/PO/LMEL/26-27/008",
+    "date": "2026-04-29",
+    "vendor": "R.J INDUSTRIAL SAFETY",
+    "payment_terms": "1) Payment Terms : @50% advance & balance 30 days",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 12597.0,
+    "items_count": 15,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "Web Sling 3 Ton capacity 5 Mtr Length",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 650.0,
+        "total": 650.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 2,
+        "desc": "Web Sling 3 Ton capacity 6 Mtr Length",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 1150.0,
+        "total": 1150.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 3,
+        "desc": "Wire Rope Sling 5 Ton capacity 5 Mtr",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 2650.0,
+        "total": 2650.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 4,
+        "desc": "D- Shackle 3 Ton Capacity",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 350.0,
+        "total": 350.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 5,
+        "desc": "Coolent oil",
+        "uom": "LITER",
+        "qty": 10.0,
+        "price": 350.0,
+        "total": 350.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 6,
+        "desc": "Industrial Socket 3 Pin 16A Single Phase",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 120.0,
+        "total": 120.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 7,
+        "desc": "Industrial Plug 3 Pin 16A Single Phase",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 120.0,
+        "total": 120.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 8,
+        "desc": "Insulation Tape",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 10.0,
+        "total": 10.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 9,
+        "desc": "Extension Board with 4 Socket& 4 Switch 12 Way",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 450.0,
+        "total": 450.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 10,
+        "desc": "Extension Board with 4 Socket with RCCB",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 4800.0,
+        "total": 4800.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 11,
+        "desc": "GI Buckets 10 L Havy",
+        "uom": "NOS",
+        "qty": 25.0,
+        "price": 350.0,
+        "total": 350.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 12,
+        "desc": "Spirit level 24\"",
+        "uom": "NOS",
+        "qty": 25.0,
+        "price": 650.0,
+        "total": 650.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 13,
+        "desc": "Aluminium paata 6 feet",
+        "uom": "NOS",
+        "qty": 25.0,
+        "price": 850.0,
+        "total": 850.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 14,
+        "desc": "Hand gloves gray",
+        "uom": "PAIR",
+        "qty": 1000.0,
+        "price": 25.0,
+        "total": 25.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 15,
+        "desc": "4\" Nails",
+        "uom": "KGS",
+        "qty": 50.0,
+        "price": 72.0,
+        "total": 72.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 009 MECHANICAL",
+    "po_no": "MMTPL/PO/LMEL/26-27/009",
+    "date": "2026-04-29",
+    "vendor": "R.J INDUSTRIAL SAFETY",
+    "payment_terms": "1) Payment Terms : @50% advance & balance 30 days",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 82893.0,
+    "items_count": 24,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "HORIZONTAL LIFTING  CLAMP-5T",
+        "uom": "NOS",
+        "qty": 6.0,
+        "price": 5300.0,
+        "total": 5300.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "VERTICAL LIFTING CLAMP-5T",
+        "uom": "NOS",
+        "qty": 6.0,
+        "price": 8300.0,
+        "total": 8300.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "SAFETY JACKET-(ORANGE)",
+        "uom": "NOS",
+        "qty": 60.0,
+        "price": 90.0,
+        "total": 90.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 4,
+        "desc": "SAFETY JACKET-(BLUE)",
+        "uom": "NOS",
+        "qty": 15.0,
+        "price": 160.0,
+        "total": 160.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 5,
+        "desc": "SAFETY HELMET (BLUE)",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 220.0,
+        "total": 220.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 6,
+        "desc": "SAFETY HELMET",
+        "uom": "NOS",
+        "qty": 25.0,
+        "price": 220.0,
+        "total": 220.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 7,
+        "desc": "SAFETY SHOES # SIZE-6",
+        "uom": "PAIR",
+        "qty": 10.0,
+        "price": 350.0,
+        "total": 350.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 8,
+        "desc": "SAFETY SHOES # SIZE-7",
+        "uom": "PAIR",
+        "qty": 15.0,
+        "price": 350.0,
+        "total": 350.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 9,
+        "desc": "SAFETY SHOES # SIZE-8",
+        "uom": "PAIR",
+        "qty": 20.0,
+        "price": 350.0,
+        "total": 350.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 10,
+        "desc": "SAFETY SHOES # SIZE-9",
+        "uom": "PAIR",
+        "qty": 20.0,
+        "price": 350.0,
+        "total": 350.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 11,
+        "desc": "SAFETY SHOES # SIZE-10",
+        "uom": "PAIR",
+        "qty": 20.0,
+        "price": 350.0,
+        "total": 350.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 12,
+        "desc": "MEASUREMENT TAPE-50MTRS",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 800.0,
+        "total": 800.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 13,
+        "desc": "CUTTING HOSE CLAMP",
+        "uom": "NOS",
+        "qty": 50.0,
+        "price": 15.0,
+        "total": 15.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 14,
+        "desc": "SPARK LIGHTER",
+        "uom": "NOS",
+        "qty": 50.0,
+        "price": 40.0,
+        "total": 40.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 15,
+        "desc": "95 Sq. MM LUGS",
+        "uom": "NOS",
+        "qty": 100.0,
+        "price": 25.0,
+        "total": 25.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 16,
+        "desc": "20MM MANELA ROPE",
+        "uom": "MTRS",
+        "qty": 100.0,
+        "price": 64.0,
+        "total": 64.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 17,
+        "desc": "16MM MANELA ROPE",
+        "uom": "MTRS",
+        "qty": 100.0,
+        "price": 54.0,
+        "total": 54.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 18,
+        "desc": "ALLUMINUM LADDER 6 mtr",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 8500.0,
+        "total": 8500.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 19,
+        "desc": "ALLUMINUM LADDER 8 mtr",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 11500.0,
+        "total": 11500.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 20,
+        "desc": "Magnetic Drill Machine Broch Cutter 50 mm X 50 mm",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 40200.0,
+        "total": 40200.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 21,
+        "desc": "Broch Cutter Bit -18mm",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 1320.0,
+        "total": 1320.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 22,
+        "desc": "Broch Cutter Bit  -22mm",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 1355.0,
+        "total": 1355.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 23,
+        "desc": "Broch Cutter Bit  -24mm",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 1450.0,
+        "total": 1450.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 24,
+        "desc": "Broch Cutter Bit  -26mm",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 1530.0,
+        "total": 1530.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 010 REFRACTORY",
+    "po_no": "MMTPL/PO/LMEL/26-27/010",
+    "date": "2026-04-29",
+    "vendor": "SN SCOFFOLDING",
+    "payment_terms": "1) Payment Terms : @100%",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 135.0,
+    "items_count": 2,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "WALKWAY JAALI (TADKA 20 X 20 THK 2.2 MM)",
+        "uom": "KGS",
+        "qty": 7420.0,
+        "price": 66.0,
+        "total": 66.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "PROP JACK 2.9 X 2.9 (APOLLO TO APOLLO)",
+        "uom": "KGS",
+        "qty": 8650.0,
+        "price": 69.0,
+        "total": 69.0,
+        "type": "ASSET"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 011 REFRACTORY CLAMPS",
+    "po_no": "MMTPL/PO/LMEL/26-27/011",
+    "date": "2026-05-02",
+    "vendor": "INDUSTRIAL EQUIPMENT CENTRE",
+    "payment_terms": "1) Payment Terms : @100%",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 213.0,
+    "items_count": 2,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "Drop Forged Clamp 40/40 (956 gram)",
+        "uom": "NOS",
+        "qty": 2000.0,
+        "price": 103.0,
+        "total": 103.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "Joint Clamp",
+        "uom": "NOS",
+        "qty": 70.0,
+        "price": 110.0,
+        "total": 110.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 012 MECHANICAL",
+    "po_no": "MMTPL/PO/LMEL/26-27/012",
+    "date": "2026-05-01",
+    "vendor": "R.J INDUSTRIAL SAFETY",
+    "payment_terms": "1) Payment Terms : @50% advance & balance 30 days",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 22380.0,
+    "items_count": 12,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "Pug machine",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 14500.0,
+        "total": 14500.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 2,
+        "desc": "Pug machine track",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 1350.0,
+        "total": 1350.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 3,
+        "desc": "Lifting belt 5ton 5MTR",
+        "uom": "NOS",
+        "qty": 6.0,
+        "price": 1450.0,
+        "total": 1450.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "Lifting belt 5ton 3MTR",
+        "uom": "NOS",
+        "qty": 6.0,
+        "price": 850.0,
+        "total": 850.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 5,
+        "desc": "Lifting belt 3ton 6mtr",
+        "uom": "NOS",
+        "qty": 6.0,
+        "price": 1150.0,
+        "total": 1150.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 6,
+        "desc": "Lifting belt 3ton 3mtr",
+        "uom": "NOS",
+        "qty": 6.0,
+        "price": 650.0,
+        "total": 650.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 7,
+        "desc": "DA 3 pipe nozzle 1/16",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 350.0,
+        "total": 350.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 8,
+        "desc": "DA 3 pipe nozzle 3/64",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 350.0,
+        "total": 350.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 9,
+        "desc": "3LB Hammer fiber Handle",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 550.0,
+        "total": 550.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 10,
+        "desc": "Wire brush",
+        "uom": "NOS",
+        "qty": 24.0,
+        "price": 50.0,
+        "total": 50.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 11,
+        "desc": "2LB hammer fiber Handle",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 450.0,
+        "total": 450.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 12,
+        "desc": "4LB hammer fiber Handle",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 680.0,
+        "total": 680.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 013 REFRACTORY Helmet j",
+    "po_no": "MMTPL/PO/LMEL/26-27/013",
+    "date": "2026-05-04",
+    "vendor": "R.J INDUSTRIAL SAFETY",
+    "payment_terms": "1) Payment Terms : @50% advance & balance 30 days",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 460.0,
+    "items_count": 3,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "Safety helmet",
+        "uom": "NOS",
+        "qty": 3.0,
+        "price": 220.0,
+        "total": 220.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "L&t jacket",
+        "uom": "NOS",
+        "qty": 3.0,
+        "price": 150.0,
+        "total": 150.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 3,
+        "desc": "Safety jacket blue",
+        "uom": "NOS",
+        "qty": 3.0,
+        "price": 90.0,
+        "total": 90.0,
+        "type": "ASSET"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 014 MECHANICAL Safety B",
+    "po_no": "MMTPL/PO/LMEL/26-27/014",
+    "date": "2026-05-06",
+    "vendor": "R.J INDUSTRIAL SAFETY",
+    "payment_terms": "1) Payment Terms : @50% advance & balance 30 days",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 1750.0,
+    "items_count": 1,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "Safety Belt Full 20(Udyogi)",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 1750.0,
+        "total": 1750.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 015 REFRACTORY BLADE",
+    "po_no": "MMTPL/PO/LMEL/25-26/015",
+    "date": "2026-05-16",
+    "vendor": "SINTECH DIMAND TOOLS",
+    "payment_terms": "1) Payment Terms :  100% Advance before Dispatch",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 4100.0,
+    "items_count": 2,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "Brick Cutting Blade 16\" Diamond Segmented Saws",
+        "uom": "Nos",
+        "qty": 10.0,
+        "price": 3500.0,
+        "total": 3500.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "Transportation as per actual - VRL Logistic",
+        "uom": "Nos",
+        "qty": 1.0,
+        "price": 600.0,
+        "total": 600.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 016 REFRACTORY CLAMP",
+    "po_no": "MMTPL/PO/LMEL/26-27/016",
+    "date": "2026-05-19",
+    "vendor": "INDUSTRIAL EQUIPMENT CENTRE",
+    "payment_terms": "1) Payment Terms : @100%",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 330.0,
+    "items_count": 3,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "Drop Forged Clamp 40/40 (956 gram)",
+        "uom": "NOS",
+        "qty": 1300.0,
+        "price": 103.0,
+        "total": 103.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "Moveable Forged Clamp 40/40",
+        "uom": "NOS",
+        "qty": 250.0,
+        "price": 112.0,
+        "total": 112.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "Joint Clamp",
+        "uom": "NOS",
+        "qty": 500.0,
+        "price": 115.0,
+        "total": 115.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 017 REFRACTORY..",
+    "po_no": "MMTPL/PO/LMEL/26-27/017",
+    "date": "2026-05-19",
+    "vendor": "R.J INDUSTRIAL SAFETY",
+    "payment_terms": "1) Payment Terms : @50% advance & balance 30 days",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 3220.0,
+    "items_count": 10,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "GI Pipe 3/4\" 6 mtrs lenth",
+        "uom": "No's",
+        "qty": 3.0,
+        "price": 750.0,
+        "total": 750.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "1.5\" Nails (Hard)",
+        "uom": "Kg",
+        "qty": 25.0,
+        "price": 75.0,
+        "total": 75.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "2.5\" Nails (Hard)",
+        "uom": "Kg",
+        "qty": 75.0,
+        "price": 75.0,
+        "total": 75.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "3\" Nails (Hard)",
+        "uom": "Kg",
+        "qty": 75.0,
+        "price": 75.0,
+        "total": 75.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 5,
+        "desc": "Insulation tape",
+        "uom": "Box",
+        "qty": 1.0,
+        "price": 300.0,
+        "total": 300.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 6,
+        "desc": "Brick Cutting Blade",
+        "uom": "Nos",
+        "qty": 20.0,
+        "price": 240.0,
+        "total": 240.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 7,
+        "desc": "Aluminium Paata 6' lenth Heavy",
+        "uom": "No's",
+        "qty": 48.0,
+        "price": 850.0,
+        "total": 850.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 8,
+        "desc": "Wood Cutting Blade 7\"",
+        "uom": "No's",
+        "qty": 4.0,
+        "price": 450.0,
+        "total": 450.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 9,
+        "desc": "Hand Gloves",
+        "uom": "Pairs",
+        "qty": 1000.0,
+        "price": 25.0,
+        "total": 25.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 10,
+        "desc": "GI Buckets 10L",
+        "uom": "No's",
+        "qty": 50.0,
+        "price": 380.0,
+        "total": 380.0,
+        "type": "ASSET"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 018 REFRACTORY PIPES",
+    "po_no": "MMTPL/PO/LMEL/26-27/018",
+    "date": "2026-05-19",
+    "vendor": "MANGAL TUBE CORPORATION",
+    "payment_terms": "1) Payment Terms : @100% Payment",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 52.0,
+    "items_count": 1,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "MS PIPE 48 OD X 2.9 MM LENGTH 6 MTR EACH PIPE APROX WT.20KG",
+        "uom": "KGS",
+        "qty": 8000.0,
+        "price": 52.0,
+        "total": 52.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 019 REFRACTORY JAALI",
+    "po_no": "MMTPL/PO/LMEL/26-27/010",
+    "date": "2026-05-20",
+    "vendor": "SN SCOFFOLDING",
+    "payment_terms": "1) Payment Terms : @100%",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 67.0,
+    "items_count": 1,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "WALKWAY JAALI (TADKA 20 X 20 THK 2.2 MM)",
+        "uom": "KGS",
+        "qty": 1400.0,
+        "price": 67.0,
+        "total": 67.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 020 Mechanical Electrod",
+    "po_no": "MMTPL/PO/LMEL/26-27/020",
+    "date": "2026-06-09",
+    "vendor": "SANTOSH ENTERPRISES",
+    "payment_terms": "1) Payment Terms : @100%",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 8180.0,
+    "items_count": 6,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "NORMA V 3.15MM X 450MM W/ROD- 6013",
+        "uom": "BOX",
+        "qty": 40.0,
+        "price": 1950.0,
+        "total": 1950.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "NORMA V 4.00MM W/ROD 6013",
+        "uom": "BOX",
+        "qty": 30.0,
+        "price": 2010.0,
+        "total": 2010.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "D&H WELDING ROD 7018 - 3.15MM",
+        "uom": "BOX",
+        "qty": 30.0,
+        "price": 1940.0,
+        "total": 1940.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "D&H WELDING ROD 7018 - 4.00MM",
+        "uom": "BOX",
+        "qty": 40.0,
+        "price": 2010.0,
+        "total": 2010.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 5,
+        "desc": "MIG WIRE 1.20MM D&H",
+        "uom": "BOX",
+        "qty": 600.0,
+        "price": 120.0,
+        "total": 120.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 6,
+        "desc": "FLUX CORE WIRE 1.20MM D&H",
+        "uom": "KGS",
+        "qty": 300.0,
+        "price": 150.0,
+        "total": 150.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 021 MECHANICAL ITEMS",
+    "po_no": "MMTPL/PO/LMEL/26-27/021",
+    "date": "2026-05-20",
+    "vendor": "R.J INDUSTRIAL SAFETY",
+    "payment_terms": "1) Payment Terms : @50% advance & balance 30 days",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 179025.0,
+    "items_count": 49,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "WELDING CABLE",
+        "uom": "MTRS",
+        "qty": 300.0,
+        "price": 140.0,
+        "total": 140.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "WELDING HELMET",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 250.0,
+        "total": 250.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "WELDING HOLDER Heavy Duty",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 320.0,
+        "total": 320.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "CUTTING TORCH - 3 Pipes",
+        "uom": "NOS",
+        "qty": 6.0,
+        "price": 3650.0,
+        "total": 3650.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 5,
+        "desc": "OXYGEN REGULATOR Double Gauge",
+        "uom": "NOS",
+        "qty": 15.0,
+        "price": 2650.0,
+        "total": 2650.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 6,
+        "desc": "DA REGULATOR",
+        "uom": "NOS",
+        "qty": 15.0,
+        "price": 2950.0,
+        "total": 2950.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 7,
+        "desc": "PUG M/C Konark",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 14500.0,
+        "total": 14500.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 8,
+        "desc": "PUG M/C TRACK",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 1350.0,
+        "total": 1350.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 9,
+        "desc": "Pug Flash back arrestor",
+        "uom": "SET",
+        "qty": 3.0,
+        "price": 750.0,
+        "total": 750.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 10,
+        "desc": "OXYGEN Flash back arrestor torch side",
+        "uom": "NOS",
+        "qty": 12.0,
+        "price": 350.0,
+        "total": 350.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 11,
+        "desc": "OXYGEN Flash back arrestor regulator side",
+        "uom": "NOS",
+        "qty": 12.0,
+        "price": 350.0,
+        "total": 350.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 12,
+        "desc": "DA Flash back arrestor torch side",
+        "uom": "NOS",
+        "qty": 12.0,
+        "price": 350.0,
+        "total": 350.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 13,
+        "desc": "DAFlash back arrestor regulator side",
+        "uom": "NOS",
+        "qty": 12.0,
+        "price": 350.0,
+        "total": 350.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 14,
+        "desc": "Cutting hose(red)",
+        "uom": "MTRS",
+        "qty": 300.0,
+        "price": 70.0,
+        "total": 70.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 15,
+        "desc": "Cutting hose(blue)",
+        "uom": "MTRS",
+        "qty": 300.0,
+        "price": 70.0,
+        "total": 70.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 16,
+        "desc": "CUTTING NOZZLE (DA)-1/16",
+        "uom": "NOS",
+        "qty": 25.0,
+        "price": 450.0,
+        "total": 450.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 17,
+        "desc": "CUTTING NOZZLE (DA)-3/64",
+        "uom": "NOS",
+        "qty": 25.0,
+        "price": 450.0,
+        "total": 450.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 18,
+        "desc": "APRON",
+        "uom": "NOS",
+        "qty": 25.0,
+        "price": 250.0,
+        "total": 250.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 19,
+        "desc": "LED GUARD",
+        "uom": "PAIR",
+        "qty": 25.0,
+        "price": 180.0,
+        "total": 180.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 20,
+        "desc": "HAND SLEEVE",
+        "uom": "PAIR",
+        "qty": 25.0,
+        "price": 180.0,
+        "total": 180.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 21,
+        "desc": "LEATHER HAND GLOVES",
+        "uom": "PAIR",
+        "qty": 30.0,
+        "price": 80.0,
+        "total": 80.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 22,
+        "desc": "COTTON HAND GLOVES",
+        "uom": "PAIR",
+        "qty": 60.0,
+        "price": 15.0,
+        "total": 15.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 23,
+        "desc": "A7 GRINDING MACHINE 2600 WTT Bosch",
+        "uom": "NOS",
+        "qty": 8.0,
+        "price": 9200.0,
+        "total": 9200.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 24,
+        "desc": "A5 GRINDING MACHINE 1300 WTT  Bosch",
+        "uom": "NOS",
+        "qty": 8.0,
+        "price": 6500.0,
+        "total": 6500.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 25,
+        "desc": "A7 GRINDING WHEEL  Bosch",
+        "uom": "NOS",
+        "qty": 50.0,
+        "price": 85.0,
+        "total": 85.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 26,
+        "desc": "A7 GRINDING CUTTING WHEEL  Bosch",
+        "uom": "NOS",
+        "qty": 25.0,
+        "price": 80.0,
+        "total": 80.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 27,
+        "desc": "A5 GRINDING WHEEL  Bosch",
+        "uom": "NOS",
+        "qty": 25.0,
+        "price": 65.0,
+        "total": 65.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 28,
+        "desc": "A5 GRINDING CUTTING WHEEL  Bosch",
+        "uom": "NOS",
+        "qty": 25.0,
+        "price": 45.0,
+        "total": 45.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 29,
+        "desc": "GRINDING FACE SHIELD",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 210.0,
+        "total": 210.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 30,
+        "desc": "CUTTING PLIER Taparia",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 250.0,
+        "total": 250.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 31,
+        "desc": "MEASUREMENT TAPE-5MTRS Freemens",
+        "uom": "NOS",
+        "qty": 15.0,
+        "price": 100.0,
+        "total": 100.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 32,
+        "desc": "MEASUREMENT TAPE-50MTRS Freemens",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 950.0,
+        "total": 950.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 33,
+        "desc": "RIGHT ANGLE-8''",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 450.0,
+        "total": 450.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 34,
+        "desc": "PIONO WIRE",
+        "uom": "KGS",
+        "qty": 2.0,
+        "price": 350.0,
+        "total": 350.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 35,
+        "desc": "BOW  SHACKLES-5T",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 450.0,
+        "total": 450.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 36,
+        "desc": "BOW SHACKLES-10T",
+        "uom": "NOS",
+        "qty": 8.0,
+        "price": 950.0,
+        "total": 950.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 37,
+        "desc": "WIRE ROPE SLING-25MM X 6MTRS (single crimp) Usha Martin",
+        "uom": "NOS",
+        "qty": 6.0,
+        "price": 4500.0,
+        "total": 4500.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 38,
+        "desc": "WIRE ROPE SLING-20MM X 6MTRS (single crimp)Usha Martin",
+        "uom": "NOS",
+        "qty": 6.0,
+        "price": 3350.0,
+        "total": 3350.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 39,
+        "desc": "WEB SLING-5TX6MTRS",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 1450.0,
+        "total": 1450.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 40,
+        "desc": "WEB SLING-3TX6MTRS",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 1150.0,
+        "total": 1150.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 41,
+        "desc": "HYDRAULIC JACK-50 TON CAPACITY",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 24500.0,
+        "total": 24500.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 42,
+        "desc": "HYDRAULIC BOTTLE  JACK-50 TON CAPACITY",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 6500.0,
+        "total": 6500.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 43,
+        "desc": "CHAIN PULLEY BLOCK-10T X6 M  CAPACITY",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 35200.0,
+        "total": 35200.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 44,
+        "desc": "CHAIN PULLEY BLOCK-5 TX6 M  CAPACITY",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 16350.0,
+        "total": 16350.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 45,
+        "desc": "CHAIN PULLEY BLOCK-3 TX6 M  CAPACITY",
+        "uom": "NOS",
+        "qty": 6.0,
+        "price": 12850.0,
+        "total": 12850.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 46,
+        "desc": "TURN BUCKLES-3T CAPACITY FORGED",
+        "uom": "NOS",
+        "qty": 6.0,
+        "price": 2400.0,
+        "total": 2400.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 47,
+        "desc": "WIRE ROPE SLING-12mm Usha Martin",
+        "uom": "MTRS",
+        "qty": 200.0,
+        "price": 135.0,
+        "total": 135.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 48,
+        "desc": "SAFETY BELT(FULL BODY HORNESS)",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 1750.0,
+        "total": 1750.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 49,
+        "desc": "ELECTRICAL PANNEL BOARD",
+        "uom": "NOS",
+        "qty": 8.0,
+        "price": 19500.0,
+        "total": 19500.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 022 MECHANICAL ELECTROD",
+    "po_no": "MMTPL/PO/LMEL/26-27/022",
+    "date": "2026-05-30",
+    "vendor": "R.J INDUSTRIAL SAFETY",
+    "payment_terms": "1) Payment Terms : @50% advance & balance 30 days",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 9938.0,
+    "items_count": 5,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "WELDING ELECTRODE 6013-3.15MM D&H SECHRON",
+        "uom": "CASE",
+        "qty": 10.0,
+        "price": 2200.0,
+        "total": 2200.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "WELDING ELECTRODE 6013-4.0MM D&H SECHRON",
+        "uom": "CASE",
+        "qty": 10.0,
+        "price": 2700.0,
+        "total": 2700.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "WELDING ELECTRODE 7018-3.15MM D&H SECHRON",
+        "uom": "CASE",
+        "qty": 10.0,
+        "price": 2400.0,
+        "total": 2400.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "WELDING ELECTRODE 7018-4.0MM D&H SECHRON",
+        "uom": "CASE",
+        "qty": 10.0,
+        "price": 2500.0,
+        "total": 2500.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 5,
+        "desc": "MIG COIL D&H",
+        "uom": "ROLL",
+        "qty": 10.0,
+        "price": 138.0,
+        "total": 138.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 023 ZAIN MINERALS",
+    "po_no": "MMTPL/PO/LMEL/26-27/023",
+    "date": "2026-05-30",
+    "vendor": "MERCURY SYNTHETIC RESINS",
+    "payment_terms": "1) Payment Terms : @100% advance",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 222.0,
+    "items_count": 1,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "PHENOLIC RESIN - MERCOLITE 108T",
+        "uom": "KGS",
+        "qty": 300.0,
+        "price": 222.0,
+        "total": 222.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 024 Pipes Clamps",
+    "po_no": "MMTPL/PO/LMEL/26-27/024",
+    "date": "2026-06-03",
+    "vendor": "ATHARV ENGINEERING",
+    "payment_terms": "1) Payment Terms : @100%",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 780.0,
+    "items_count": 5,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "SCAFFOLDING PIPES 48 OD (20 Kgs)",
+        "uom": "KGS",
+        "qty": 8000.0,
+        "price": 55.0,
+        "total": 55.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "LOADING PIPES",
+        "uom": "MT",
+        "qty": 8.0,
+        "price": 400.0,
+        "total": 400.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "DROPED FORGED CLAMP (FIXED)",
+        "uom": "NOS",
+        "qty": 2000.0,
+        "price": 103.0,
+        "total": 103.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "SEIVEL CLAMP (MOVABLE)",
+        "uom": "NOS",
+        "qty": 200.0,
+        "price": 112.0,
+        "total": 112.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 5,
+        "desc": "SLEEVE COUPLER (JOINTER)",
+        "uom": "NOS",
+        "qty": 500.0,
+        "price": 110.0,
+        "total": 110.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 025 WELDING MACHINE NGP",
+    "po_no": "MMTPL/PO/LMEL/26-27/025",
+    "date": "2026-06-09",
+    "vendor": "MARK ENGINEERING CORPORATION",
+    "payment_terms": "1) Payment Terms : Advance 50% on 20th June and balance within 15 days.",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 127000.0,
+    "items_count": 2,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "VIRGO PLUS INVERTER W/M ARC - 400 HDIJ (3PH)",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 28000.0,
+        "total": 28000.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "VIRGO MIG W/M 500-HDIJ WITH FEEDER UNIT WITH 10M INTERCONNECTION 70SQ COPPER CABLE",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 99000.0,
+        "total": 99000.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - xxx MECHANICAL ITEM",
+    "po_no": "MMTPL/PO/LMEL/26-27/xxx",
+    "date": "2026-05-26",
+    "vendor": "RITESH HARDWARE STORES",
+    "payment_terms": "1) Payment Terms : @50% advance & balance 30 days",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 167606.0,
+    "items_count": 47,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "WELDING CABLE Poly Hose",
+        "uom": "MTRS",
+        "qty": 400.0,
+        "price": 91.0,
+        "total": 91.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "WELDING HELMET",
+        "uom": "NOS",
+        "qty": 17.0,
+        "price": 210.0,
+        "total": 210.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "WELDING HOLDER Heavy Duty",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 260.0,
+        "total": 260.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "CUTTING TORCH - 3 Pipes",
+        "uom": "NOS",
+        "qty": 6.0,
+        "price": 4169.0,
+        "total": 4169.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 5,
+        "desc": "OXYGEN REGULATOR Double Gauge",
+        "uom": "NOS",
+        "qty": 12.0,
+        "price": 2800.0,
+        "total": 2800.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 6,
+        "desc": "DA REGULATOR",
+        "uom": "NOS",
+        "qty": 12.0,
+        "price": 3199.0,
+        "total": 3199.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 7,
+        "desc": "PUG M/C Konark",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 16718.0,
+        "total": 16718.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 8,
+        "desc": "PUG M/C TRACK",
+        "uom": "NOS",
+        "qty": 0.0,
+        "price": 980.0,
+        "total": 980.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 9,
+        "desc": "Pug Flash back arrestor",
+        "uom": "SET",
+        "qty": 3.0,
+        "price": 840.0,
+        "total": 840.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 10,
+        "desc": "OXYGEN Flash back arrestor torch side",
+        "uom": "NOS",
+        "qty": 11.0,
+        "price": 420.0,
+        "total": 420.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 11,
+        "desc": "OXYGEN Flash back arrestor regulator side",
+        "uom": "NOS",
+        "qty": 11.0,
+        "price": 420.0,
+        "total": 420.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 12,
+        "desc": "DA Flash back arrestor torch side",
+        "uom": "NOS",
+        "qty": 11.0,
+        "price": 420.0,
+        "total": 420.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 13,
+        "desc": "DAFlash back arrestor regulator side",
+        "uom": "NOS",
+        "qty": 11.0,
+        "price": 420.0,
+        "total": 420.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 14,
+        "desc": "Cutting hose(red)",
+        "uom": "MTRS",
+        "qty": 200.0,
+        "price": 42.0,
+        "total": 42.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 15,
+        "desc": "Cutting hose(blue)",
+        "uom": "MTRS",
+        "qty": 200.0,
+        "price": 42.0,
+        "total": 42.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 16,
+        "desc": "CUTTING NOZZLE (DA)-1/16",
+        "uom": "NOS",
+        "qty": 25.0,
+        "price": 432.0,
+        "total": 432.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 17,
+        "desc": "CUTTING NOZZLE (DA)-3/64",
+        "uom": "NOS",
+        "qty": 25.0,
+        "price": 432.0,
+        "total": 432.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 18,
+        "desc": "APRON",
+        "uom": "NOS",
+        "qty": 25.0,
+        "price": 210.0,
+        "total": 210.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 19,
+        "desc": "LED GUARD",
+        "uom": "PAIR",
+        "qty": 25.0,
+        "price": 130.0,
+        "total": 130.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 20,
+        "desc": "HAND SLEEVE",
+        "uom": "PAIR",
+        "qty": 25.0,
+        "price": 130.0,
+        "total": 130.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 21,
+        "desc": "LEATHER HAND GLOVES",
+        "uom": "PAIR",
+        "qty": 30.0,
+        "price": 145.0,
+        "total": 145.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 22,
+        "desc": "COTTON HAND GLOVES",
+        "uom": "PAIR",
+        "qty": 60.0,
+        "price": 15.0,
+        "total": 15.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 23,
+        "desc": "A7 GRINDING MACHINE 2600 WTT Bosch",
+        "uom": "NOS",
+        "qty": 0.0,
+        "price": 7500.0,
+        "total": 7500.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 24,
+        "desc": "A5 GRINDING MACHINE 1300 WTT  Bosch",
+        "uom": "NOS",
+        "qty": 0.0,
+        "price": 5500.0,
+        "total": 5500.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 25,
+        "desc": "A7 GRINDING WHEEL  Bosch",
+        "uom": "NOS",
+        "qty": 60.0,
+        "price": 82.0,
+        "total": 82.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 26,
+        "desc": "A7 GRINDING CUTTING WHEEL  Bosch",
+        "uom": "NOS",
+        "qty": 25.0,
+        "price": 70.0,
+        "total": 70.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 27,
+        "desc": "A5 GRINDING WHEEL  Bosch",
+        "uom": "NOS",
+        "qty": 25.0,
+        "price": 65.0,
+        "total": 65.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 28,
+        "desc": "A5 GRINDING CUTTING WHEEL  Bosch",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 60.0,
+        "total": 60.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 29,
+        "desc": "GRINDING FACE SHIELD",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 190.0,
+        "total": 190.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 30,
+        "desc": "CUTTING PLIER Taparia",
+        "uom": "NOS",
+        "qty": 0.0,
+        "price": 250.0,
+        "total": 250.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 31,
+        "desc": "MEASUREMENT TAPE-5MTRS Freemens",
+        "uom": "NOS",
+        "qty": 15.0,
+        "price": 110.0,
+        "total": 110.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 32,
+        "desc": "MEASUREMENT TAPE-50MTRS Freemens",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 860.0,
+        "total": 860.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 33,
+        "desc": "RIGHT ANGLE-8''",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 234.0,
+        "total": 234.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 34,
+        "desc": "PIONO WIRE",
+        "uom": "KGS",
+        "qty": 0.0,
+        "price": 350.0,
+        "total": 350.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 35,
+        "desc": "BOW  SHACKLES-5T",
+        "uom": "NOS",
+        "qty": 0.0,
+        "price": 260.0,
+        "total": 260.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 36,
+        "desc": "BOW SHACKLES-10T",
+        "uom": "NOS",
+        "qty": 0.0,
+        "price": 800.0,
+        "total": 800.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 37,
+        "desc": "WIRE ROPE SLING-25MM X 6MTRS (single crimp) Usha Martin",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 4340.0,
+        "total": 4340.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 38,
+        "desc": "WIRE ROPE SLING-20MM X 6MTRS single crimp)Usha Martin",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 2633.0,
+        "total": 2633.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 39,
+        "desc": "WEB SLING-5TX6MTRS",
+        "uom": "NOS",
+        "qty": 0.0,
+        "price": 1300.0,
+        "total": 1300.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 40,
+        "desc": "WEB SLING-3TX6MTRS",
+        "uom": "NOS",
+        "qty": 0.0,
+        "price": 820.0,
+        "total": 820.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 41,
+        "desc": "CHAIN PULLEY BLOCK-10T X6 M  CAPACITY",
+        "uom": "NOS",
+        "qty": 0.0,
+        "price": 54756.0,
+        "total": 54756.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 42,
+        "desc": "CHAIN PULLEY BLOCK-5 TX6 M  CAPACITY",
+        "uom": "NOS",
+        "qty": 0.0,
+        "price": 29340.0,
+        "total": 29340.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 43,
+        "desc": "CHAIN PULLEY BLOCK-3 TX6 M  CAPACITY",
+        "uom": "NOS",
+        "qty": 0.0,
+        "price": 18468.0,
+        "total": 18468.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 44,
+        "desc": "TURN BUCKLES-3T CAPACITY FORGED",
+        "uom": "NOS",
+        "qty": 0.0,
+        "price": 1323.0,
+        "total": 1323.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 45,
+        "desc": "WIRE ROPE SLING-12mm Usha Martin",
+        "uom": "MTRS",
+        "qty": 0.0,
+        "price": 120.0,
+        "total": 120.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 46,
+        "desc": "SAFETY BELT(FULL BODY HORNESS)",
+        "uom": "NOS",
+        "qty": 0.0,
+        "price": 1750.0,
+        "total": 1750.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 47,
+        "desc": "ELECTRICAL PANNEL BOARD",
+        "uom": "NOS",
+        "qty": 0.0,
+        "price": 3900.0,
+        "total": 3900.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 026 MECHANICAL",
+    "po_no": "MMTPL/PO/LMEL/26-27/026",
+    "date": "2026-06-10",
+    "vendor": "R.J INDUSTRIAL SAFETY",
+    "payment_terms": "1) Payment Terms : @50% advance & balance 30 days",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 81937.0,
+    "items_count": 49,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "AG 5 GRANDING WHEEL",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 65.0,
+        "total": 65.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "5MTR TAPE",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 100.0,
+        "total": 100.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "3MTR TAPE",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 60.0,
+        "total": 60.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "30mtr tape",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 650.0,
+        "total": 650.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 5,
+        "desc": "LINE DORI",
+        "uom": "NOS",
+        "qty": 70.0,
+        "price": 20.0,
+        "total": 20.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 6,
+        "desc": "center punch",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 83.0,
+        "total": 83.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 7,
+        "desc": "cutting nozzle 3/64",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 450.0,
+        "total": 450.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 8,
+        "desc": "cutting nozzle 1/16",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 450.0,
+        "total": 450.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 9,
+        "desc": "Teflon tape",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 15.0,
+        "total": 15.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 10,
+        "desc": "LPG REGULATOR",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 2950.0,
+        "total": 2950.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 11,
+        "desc": "oxygen regulator",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 2650.0,
+        "total": 2650.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 12,
+        "desc": "Black glass",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 30.0,
+        "total": 30.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 13,
+        "desc": "DP SET ( R + Y + W )",
+        "uom": "SET",
+        "qty": 3.0,
+        "price": 540.0,
+        "total": 540.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 14,
+        "desc": "safety jacket pocket",
+        "uom": "SET",
+        "qty": 16.0,
+        "price": 220.0,
+        "total": 220.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 15,
+        "desc": "welding rod 7018x4mm ador",
+        "uom": "CASE",
+        "qty": 6.0,
+        "price": 2850.0,
+        "total": 2850.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 16,
+        "desc": "welding apron",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 250.0,
+        "total": 250.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 17,
+        "desc": "safety helmet blue",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 250.0,
+        "total": 250.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 18,
+        "desc": "mig spray",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 180.0,
+        "total": 180.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 19,
+        "desc": "fire extinguisher 6kg",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 1850.0,
+        "total": 1850.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 20,
+        "desc": "chizzle",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 120.0,
+        "total": 120.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 21,
+        "desc": "D  shakal 5ton",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 550.0,
+        "total": 550.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 22,
+        "desc": "TAFLON TAPE",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 15.0,
+        "total": 15.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 23,
+        "desc": "mig tip 1.2",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 65.0,
+        "total": 65.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 24,
+        "desc": "sprite Laval",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 380.0,
+        "total": 380.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 25,
+        "desc": "16 amp panal socket",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 150.0,
+        "total": 150.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 26,
+        "desc": "32amp panal socket",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 250.0,
+        "total": 250.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 27,
+        "desc": "1.5sqmm cable",
+        "uom": "MTR",
+        "qty": 100.0,
+        "price": 74.0,
+        "total": 74.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 28,
+        "desc": "Flash back arrester pug machine",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 450.0,
+        "total": 450.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 29,
+        "desc": "dotted hand gloves",
+        "uom": "PAIR",
+        "qty": 100.0,
+        "price": 15.0,
+        "total": 15.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 30,
+        "desc": "Ag 5 emery wheel",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 65.0,
+        "total": 65.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 31,
+        "desc": "pug machine",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 14500.0,
+        "total": 14500.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 32,
+        "desc": "65mm lock",
+        "uom": "NOS",
+        "qty": 6.0,
+        "price": 180.0,
+        "total": 180.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 33,
+        "desc": "50mm lock",
+        "uom": "NOS",
+        "qty": 6.0,
+        "price": 80.0,
+        "total": 80.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 34,
+        "desc": "gi chain",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 150.0,
+        "total": 150.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 35,
+        "desc": "chain cilling 6ton x 8mtr",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 13650.0,
+        "total": 13650.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 36,
+        "desc": "hydrolic jack 30ton",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 19500.0,
+        "total": 19500.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 37,
+        "desc": "oil ston",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 350.0,
+        "total": 350.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 38,
+        "desc": "water level tube",
+        "uom": "ROLL",
+        "qty": 10.0,
+        "price": 350.0,
+        "total": 350.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 39,
+        "desc": "cutting oil",
+        "uom": "LITRE",
+        "qty": 10.0,
+        "price": 350.0,
+        "total": 350.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 40,
+        "desc": "FIBER HANDLE HAMMER 3LB",
+        "uom": "NOS",
+        "qty": 6.0,
+        "price": 650.0,
+        "total": 650.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 41,
+        "desc": "FIBER HANDLE HAMMER 8lb",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 2050.0,
+        "total": 2050.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 42,
+        "desc": "FIBER HANDLE HAMMER 10lb",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 2250.0,
+        "total": 2250.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 43,
+        "desc": "CORE BIT 36MM",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 2650.0,
+        "total": 2650.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 44,
+        "desc": "CORE BIT 38MM",
+        "uom": "NOS",
+        "qty": 3.0,
+        "price": 2950.0,
+        "total": 2950.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 45,
+        "desc": "CORE BIT 30MM",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 2450.0,
+        "total": 2450.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 46,
+        "desc": "CORE BIT 32MM",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 2150.0,
+        "total": 2150.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 47,
+        "desc": "CORE BIT 24MM",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 1850.0,
+        "total": 1850.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 48,
+        "desc": "hose clamp",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 20.0,
+        "total": 20.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 49,
+        "desc": "slate pencil",
+        "uom": "PKT",
+        "qty": 25.0,
+        "price": 10.0,
+        "total": 10.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 027 ACE FARHANA ",
+    "po_no": "MMTPL/PO/LMEL/26-27/027",
+    "date": "2026-06-17",
+    "vendor": "Action Construction Equipment Ltd",
+    "payment_terms": "1) Payment Terms : Advance amount as discussed on 04-06-2026 against purchase order and Balance to be pay through Finance.",
+    "delivery_terms": "2) Delivery Terms : As per Commitment delivery within 2-3 weeks, free delivery at door",
+    "taxable": 3440000.0,
+    "items_count": 1,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "ACE Hydraulic Mobile Crane \u2013 Model F170/ 17 Ton Cap / BS V (4 X 4 WD) TATA Engine 74HP/ Becon Lamp / Std Tires / Safe Load Indicator / Front Outriggers / Rear View Camera / Tyer Guard / Cabin Glass Protector / Proximity sensor / Over Hoist Limit Switch & Tool Kit. Deliverary at site C/o LLYOD METALS & ENERGY LTD, PLOT NO. A 1-2, MIDC AREA, GHUGUS, CHANDRAPUR, MAHARASHTRA 442505",
+        "uom": "NOS",
+        "qty": 6.0,
+        "price": 3440000.0,
+        "total": 3440000.0,
+        "type": "ASSET"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 028 ACE FARHANA",
+    "po_no": "MMTPL/PO/LMEL/26-27/028",
+    "date": "2026-06-17",
+    "vendor": "Action Construction Equipment Ltd",
+    "payment_terms": "1) Payment Terms : Advance amount as discussed on 04-06-2026 against purchase order and Balance to be pay through Finance.",
+    "delivery_terms": "2) Delivery Terms : As per Commitment delivery within 2-3 weeks, free delivery at door",
+    "taxable": 5600000.0,
+    "items_count": 1,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "ACE Hydraulic Mobile Crane \u2013 Model NX 360/ 20 Ton Cap / BS V (4 X 4 WD) TATA Engine 101HP/ Becon Lamp / Std Tires / Safe Load Indicator / Front Outriggers / AC Cabin / Telimatix / Rear View Camera / Tyer Guard / Cabin Glass Protector / Proximity sensor / Over Hoist Limit Switch & Tool Kit. Deliverary at site C/o LLYOD METALS & ENERGY LTD, PLOT NO. A 1-2, MIDC AREA, GHUGUS, CHANDRAPUR, MAHARASHTRA 442505",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 5600000.0,
+        "total": 5600000.0,
+        "type": "ASSET"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 029 REFRACTORY BLADE",
+    "po_no": "MMTPL/PO/LMEL/26-27/029",
+    "date": "2026-06-22",
+    "vendor": "SINTECH DIMAND TOOLS",
+    "payment_terms": "1) Payment Terms :  100% Advance before Dispatch",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 4100.0,
+    "items_count": 2,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "Brick Cutting Blade 16\" Diamond Segmented Saws",
+        "uom": "Nos",
+        "qty": 10.0,
+        "price": 3500.0,
+        "total": 3500.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "Transportation as per actual - VRL Logistic",
+        "uom": "Nos",
+        "qty": 1.0,
+        "price": 600.0,
+        "total": 600.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 030 MECHANICAL INSTRUME",
+    "po_no": "MMTPL/PO/LMEL/26-27/030",
+    "date": "2026-06-25",
+    "vendor": "ATHARV ENGINEERING",
+    "payment_terms": "1) Payment Terms : 30-45 Days against Delivery",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 84016.0,
+    "items_count": 6,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "DIAL INDICATOR 0-10MM 2046A MITUTOYO",
+        "uom": "NOS",
+        "qty": 8.0,
+        "price": 3432.0,
+        "total": 3432.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "MAGNETIC DIAL STAND MITUTOYO 7010S",
+        "uom": "NOS",
+        "qty": 8.0,
+        "price": 2700.0,
+        "total": 2700.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 3,
+        "desc": "MICRO METER 0-150 OUTSIDE 104-135A MITUTOYO",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 20016.0,
+        "total": 20016.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 4,
+        "desc": "OUTSIDE MICROMETER 150-300 MITUTOYO",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 29952.0,
+        "total": 29952.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 5,
+        "desc": "INSIDE MICROMETER 50-500 MITUTOYO",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 16416.0,
+        "total": 16416.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 6,
+        "desc": "Mitutoyo Dial Vernier Caliper 0 - 300mm L .c- 0.02mm",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 11500.0,
+        "total": 11500.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 031 Mechanical Electrod",
+    "po_no": "MMTPL/PO/LMEL/26-27/031",
+    "date": "2026-07-02",
+    "vendor": "SANTOSH ENTERPRISES",
+    "payment_terms": "1) Payment Terms : 50% Advance & Balance 08th to 10th Aug-2026",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 7770.0,
+    "items_count": 4,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "WELDING ELECTRODE 6013 4 MM",
+        "uom": "BOX",
+        "qty": 30.0,
+        "price": 2010.0,
+        "total": 2010.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "WELDING ELECTRODE 7018 3:15 MM",
+        "uom": "BOX",
+        "qty": 75.0,
+        "price": 1950.0,
+        "total": 1950.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "WELDING ELECTRODE 7018 4 MM",
+        "uom": "BOX",
+        "qty": 75.0,
+        "price": 2010.0,
+        "total": 2010.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "MIG COIL 1.2 MM",
+        "uom": "BOX",
+        "qty": 33.0,
+        "price": 1800.0,
+        "total": 1800.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 032 MECHANICAL ",
+    "po_no": "MMTPL/PO/LMEL/26-27/032",
+    "date": "2026-06-26",
+    "vendor": "R.J INDUSTRIAL SAFETY",
+    "payment_terms": "1) Payment Terms :",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 21790.0,
+    "items_count": 49,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "Safety Jacket Pocket",
+        "uom": "Nos",
+        "qty": 16.0,
+        "price": 220.0,
+        "total": 220.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 2,
+        "desc": "White goggles",
+        "uom": "Nos",
+        "qty": 10.0,
+        "price": 50.0,
+        "total": 50.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "D shakat 10ton",
+        "uom": "Nos",
+        "qty": 4.0,
+        "price": 950.0,
+        "total": 950.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "Lifting belt 5ton x 5mtr",
+        "uom": "Nos",
+        "qty": 2.0,
+        "price": 1450.0,
+        "total": 1450.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 5,
+        "desc": "Safety jacket",
+        "uom": "Nos",
+        "qty": 43.0,
+        "price": 90.0,
+        "total": 90.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 6,
+        "desc": "Safety shoes labour",
+        "uom": "Pair",
+        "qty": 36.0,
+        "price": 450.0,
+        "total": 450.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 7,
+        "desc": "Safety helmet",
+        "uom": "Nos",
+        "qty": 8.0,
+        "price": 250.0,
+        "total": 250.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 8,
+        "desc": "BOW SHAKAL 10ton",
+        "uom": "Nos",
+        "qty": 8.0,
+        "price": 950.0,
+        "total": 950.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 9,
+        "desc": "White glass",
+        "uom": "Nos",
+        "qty": 100.0,
+        "price": 5.0,
+        "total": 5.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 10,
+        "desc": "Black goggles",
+        "uom": "Nos",
+        "qty": 5.0,
+        "price": 50.0,
+        "total": 50.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 11,
+        "desc": "Paint brush 4inch",
+        "uom": "Nos",
+        "qty": 3.0,
+        "price": 75.0,
+        "total": 75.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 12,
+        "desc": "Paint brush 3inch",
+        "uom": "Nos",
+        "qty": 3.0,
+        "price": 50.0,
+        "total": 50.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 13,
+        "desc": "LPG REGULATOR",
+        "uom": "Nos",
+        "qty": 4.0,
+        "price": 2950.0,
+        "total": 2950.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 14,
+        "desc": "PUG NOZZLE 1/16",
+        "uom": "Nos",
+        "qty": 10.0,
+        "price": 350.0,
+        "total": 350.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 15,
+        "desc": "PUG NOZZLE 3/64",
+        "uom": "Nos",
+        "qty": 10.0,
+        "price": 350.0,
+        "total": 350.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 16,
+        "desc": "MIG TIP 1.2MM",
+        "uom": "Nos",
+        "qty": 10.0,
+        "price": 60.0,
+        "total": 60.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 17,
+        "desc": "MIG linner",
+        "uom": "Nos",
+        "qty": 1.0,
+        "price": 250.0,
+        "total": 250.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 18,
+        "desc": "Lighter stone",
+        "uom": "Nos",
+        "qty": 40.0,
+        "price": 10.0,
+        "total": 10.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 19,
+        "desc": "TAFLON TAPE",
+        "uom": "Nos",
+        "qty": 10.0,
+        "price": 10.0,
+        "total": 10.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 20,
+        "desc": "Hose clamp",
+        "uom": "Nos",
+        "qty": 20.0,
+        "price": 15.0,
+        "total": 15.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 21,
+        "desc": "32 amp male female",
+        "uom": "Nos",
+        "qty": 5.0,
+        "price": 360.0,
+        "total": 360.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 22,
+        "desc": "16 amp male female",
+        "uom": "Nos",
+        "qty": 5.0,
+        "price": 220.0,
+        "total": 220.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 23,
+        "desc": "Ag5 granding wheel",
+        "uom": "Nos",
+        "qty": 80.0,
+        "price": 65.0,
+        "total": 65.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 24,
+        "desc": "Cotton waste",
+        "uom": "Nos",
+        "qty": 5.0,
+        "price": 80.0,
+        "total": 80.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 25,
+        "desc": "ESAB LEATHER HAND GLOVES",
+        "uom": "Pair",
+        "qty": 30.0,
+        "price": 250.0,
+        "total": 250.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 26,
+        "desc": "Pallets pin",
+        "uom": "Nos",
+        "qty": 2.0,
+        "price": 350.0,
+        "total": 350.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 27,
+        "desc": "16 amp top",
+        "uom": "Nos",
+        "qty": 4.0,
+        "price": 100.0,
+        "total": 100.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 28,
+        "desc": "16 amp socket",
+        "uom": "Nos",
+        "qty": 4.0,
+        "price": 120.0,
+        "total": 120.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 29,
+        "desc": "32 amp top",
+        "uom": "Nos",
+        "qty": 10.0,
+        "price": 180.0,
+        "total": 180.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 30,
+        "desc": "32 amp socket",
+        "uom": "Nos",
+        "qty": 3.0,
+        "price": 180.0,
+        "total": 180.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 31,
+        "desc": "Lighter",
+        "uom": "Nos",
+        "qty": 12.0,
+        "price": 30.0,
+        "total": 30.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 32,
+        "desc": "Co2 key",
+        "uom": "Nos",
+        "qty": 10.0,
+        "price": 70.0,
+        "total": 70.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 33,
+        "desc": "Oxygen key",
+        "uom": "Nos",
+        "qty": 2.0,
+        "price": 50.0,
+        "total": 50.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 34,
+        "desc": "AG 5 cutting wheel",
+        "uom": "Nos",
+        "qty": 25.0,
+        "price": 40.0,
+        "total": 40.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 35,
+        "desc": "Tool box",
+        "uom": "Nos",
+        "qty": 1.0,
+        "price": 1150.0,
+        "total": 1150.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 36,
+        "desc": "Ring spanner set 6x32",
+        "uom": "Set",
+        "qty": 1.0,
+        "price": 1750.0,
+        "total": 1750.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 37,
+        "desc": "Dee spanner set 6x32",
+        "uom": "Set",
+        "qty": 1.0,
+        "price": 950.0,
+        "total": 950.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 38,
+        "desc": "Screw spanner 12",
+        "uom": "Nos",
+        "qty": 1.0,
+        "price": 420.0,
+        "total": 420.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 39,
+        "desc": "Scale",
+        "uom": "Nos",
+        "qty": 1.0,
+        "price": 70.0,
+        "total": 70.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 40,
+        "desc": "Screw driver big",
+        "uom": "Nos",
+        "qty": 1.0,
+        "price": 120.0,
+        "total": 120.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 41,
+        "desc": "Screw driver small",
+        "uom": "Nos",
+        "qty": 1.0,
+        "price": 70.0,
+        "total": 70.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 42,
+        "desc": "Cutting plair",
+        "uom": "Nos",
+        "qty": 1.0,
+        "price": 220.0,
+        "total": 220.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 43,
+        "desc": "Centre punch",
+        "uom": "Nos",
+        "qty": 1.0,
+        "price": 60.0,
+        "total": 60.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 44,
+        "desc": "Plumb",
+        "uom": "Nos",
+        "qty": 1.0,
+        "price": 70.0,
+        "total": 70.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 45,
+        "desc": "Sprite leval 12inch",
+        "uom": "Nos",
+        "qty": 2.0,
+        "price": 350.0,
+        "total": 350.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 46,
+        "desc": "Sim cutter",
+        "uom": "Nos",
+        "qty": 1.0,
+        "price": 450.0,
+        "total": 450.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 47,
+        "desc": "Allen key set",
+        "uom": "Nos",
+        "qty": 1.0,
+        "price": 280.0,
+        "total": 280.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 48,
+        "desc": "Magnatic stand",
+        "uom": "Nos",
+        "qty": 2.0,
+        "price": 2550.0,
+        "total": 2550.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 49,
+        "desc": "Varneear carnival",
+        "uom": "Nos",
+        "qty": 2.0,
+        "price": 2600.0,
+        "total": 2600.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 033 REFRACTORY",
+    "po_no": "MMTPL/PO/LMEL/26-27/033",
+    "date": "2026-06-29",
+    "vendor": "R.J INDUSTRIAL SAFETY",
+    "payment_terms": "1) Payment Terms :",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 2720.0,
+    "items_count": 8,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "safety jacket pocket",
+        "uom": "Nos",
+        "qty": 7.0,
+        "price": 220.0,
+        "total": 220.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 2,
+        "desc": "safety helmet rachit",
+        "uom": "Nos",
+        "qty": 3.0,
+        "price": 220.0,
+        "total": 220.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "safety jacket L&T",
+        "uom": "Nos",
+        "qty": 5.0,
+        "price": 170.0,
+        "total": 170.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 4,
+        "desc": "safety shoes",
+        "uom": "Nos",
+        "qty": 4.0,
+        "price": 450.0,
+        "total": 450.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 5,
+        "desc": "safety helmet blue",
+        "uom": "Nos",
+        "qty": 4.0,
+        "price": 220.0,
+        "total": 220.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 6,
+        "desc": "safety jacket",
+        "uom": "Pair",
+        "qty": 1.0,
+        "price": 90.0,
+        "total": 90.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 7,
+        "desc": "safety Helmet white",
+        "uom": "Nos",
+        "qty": 3.0,
+        "price": 220.0,
+        "total": 220.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 8,
+        "desc": "lifting belt 3ton x 6mtr",
+        "uom": "Nos",
+        "qty": 10.0,
+        "price": 1130.0,
+        "total": 1130.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 034 Mechanical Elec",
+    "po_no": "MMTPL/PO/LMEL/26-27/034",
+    "date": "2026-08-22",
+    "vendor": "SANTOSH ENTERPRISES",
+    "payment_terms": "1) Payment Terms :",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 55845.0,
+    "items_count": 6,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "NORMA V 3.15MM X 450MM W/ROD- 6013",
+        "uom": "BOX",
+        "qty": 30.0,
+        "price": 2010.0,
+        "total": 10854.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "NORMA V 4.00MM W/ROD 6013",
+        "uom": "BOX",
+        "qty": 20.0,
+        "price": 2010.0,
+        "total": 7236.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "D&H WELDING ROD 7018 - 3.15MM",
+        "uom": "BOX",
+        "qty": 30.0,
+        "price": 1950.0,
+        "total": 10530.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "Electrode SS 308-L",
+        "uom": "BOX",
+        "qty": 5.0,
+        "price": 2900.0,
+        "total": 2610.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 5,
+        "desc": "MIG WIRE 1.20MM D&H",
+        "uom": "KGS",
+        "qty": 1125.0,
+        "price": 120.0,
+        "total": 24300.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 6,
+        "desc": "Mig Tip 1.2 mm",
+        "uom": "NOS",
+        "qty": 50.0,
+        "price": 35.0,
+        "total": 315.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 035 Mechanical Lifting",
+    "po_no": "MMTPL/PO/LMEL/26-27/035",
+    "date": "2026-08-22",
+    "vendor": "National Industry Needs",
+    "payment_terms": "1) Payment Terms :",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 44474.3,
+    "items_count": 30,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "Steel Wire Rope Sling 12 MM X 3 Mtr",
+        "uom": "Nos",
+        "qty": 6.0,
+        "price": 460.0,
+        "total": 496.79999999999995,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 2,
+        "desc": "Steel Wire Rope Sling 12 MM X 6 Mtr",
+        "uom": "Nos",
+        "qty": 6.0,
+        "price": 680.0,
+        "total": 734.4,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 3,
+        "desc": "Steel Wire Rope Sling 12 MM X 9 Mtr",
+        "uom": "Nos",
+        "qty": 6.0,
+        "price": 890.0,
+        "total": 961.1999999999999,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 4,
+        "desc": "Steel Wire Rope Sling 16 MM X 4 Mtr",
+        "uom": "Nos",
+        "qty": 6.0,
+        "price": 875.0,
+        "total": 945.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 5,
+        "desc": "Steel Wire Rope Sling 16 MM X 8 Mtr",
+        "uom": "Nos",
+        "qty": 6.0,
+        "price": 1400.0,
+        "total": 1512.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 6,
+        "desc": "Steel Wire Rope Sling 20 MM X 4 Mtr",
+        "uom": "Nos",
+        "qty": 4.0,
+        "price": 1600.0,
+        "total": 1152.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 7,
+        "desc": "Steel Wire Rope Sling 20 MM X 8 Mtr",
+        "uom": "Nos",
+        "qty": 4.0,
+        "price": 2480.0,
+        "total": 1785.6,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 8,
+        "desc": "Steel Wire Rope Sling 25 MM X 6 Mtr",
+        "uom": "Nos",
+        "qty": 6.0,
+        "price": 2650.0,
+        "total": 2862.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 9,
+        "desc": "Steel Wire Rope Sling 25 MM X 9 Mtr",
+        "uom": "Nos",
+        "qty": 6.0,
+        "price": 3500.0,
+        "total": 3780.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 10,
+        "desc": "PP Rope (Rassa) 20mm",
+        "uom": "KGS",
+        "qty": 42.0,
+        "price": 195.0,
+        "total": 409.5,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 11,
+        "desc": "Bow Shackles 25 TON",
+        "uom": "Nos",
+        "qty": 6.0,
+        "price": 2000.0,
+        "total": 2160.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 12,
+        "desc": "De Shackles  25 Ton",
+        "uom": "Nos",
+        "qty": 10.0,
+        "price": 1900.0,
+        "total": 3420.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 13,
+        "desc": "De Shackles  35 Ton",
+        "uom": "Nos",
+        "qty": 4.0,
+        "price": 3500.0,
+        "total": 2520.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 14,
+        "desc": "Bow Shackles 17 TON",
+        "uom": "Nos",
+        "qty": 4.0,
+        "price": 1050.0,
+        "total": 756.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 15,
+        "desc": "De Shackles  17 Ton",
+        "uom": "Nos",
+        "qty": 10.0,
+        "price": 1000.0,
+        "total": 1800.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 16,
+        "desc": "Bow Shackles 12 TON",
+        "uom": "Nos",
+        "qty": 8.0,
+        "price": 700.0,
+        "total": 1008.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 17,
+        "desc": "De Shackles  12 Ton",
+        "uom": "Nos",
+        "qty": 12.0,
+        "price": 650.0,
+        "total": 1404.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 18,
+        "desc": "Bow Shackles 9 TON",
+        "uom": "Nos",
+        "qty": 10.0,
+        "price": 470.0,
+        "total": 846.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 19,
+        "desc": "De Shackles  9 Ton",
+        "uom": "Nos",
+        "qty": 10.0,
+        "price": 410.0,
+        "total": 738.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 20,
+        "desc": "De Shackles  5 Ton",
+        "uom": "Nos",
+        "qty": 12.0,
+        "price": 130.0,
+        "total": 280.8,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 21,
+        "desc": "Steel Wire Rope 20 MM (6/36 IWRC)",
+        "uom": "MTR",
+        "qty": 150.0,
+        "price": 315.0,
+        "total": 8505.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 22,
+        "desc": "Rope U Clamps 20 MM",
+        "uom": "Nos",
+        "qty": 50.0,
+        "price": 35.0,
+        "total": 315.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 23,
+        "desc": "Steel Wire Rope 10 MM",
+        "uom": "MTR",
+        "qty": 150.0,
+        "price": 110.0,
+        "total": 2970.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 24,
+        "desc": "Rope U Clamps 10 MM",
+        "uom": "Nos",
+        "qty": 50.0,
+        "price": 18.0,
+        "total": 162.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 25,
+        "desc": "Rope Pulley 3 Ton Capacity",
+        "uom": "Nos",
+        "qty": 4.0,
+        "price": 2200.0,
+        "total": 1584.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 26,
+        "desc": "WEBSLING 3 TON X 3 MTR",
+        "uom": "Nos",
+        "qty": 10.0,
+        "price": 400.0,
+        "total": 200.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 27,
+        "desc": "WEBSLING 3 TON X 5 MTR",
+        "uom": "Nos",
+        "qty": 10.0,
+        "price": 620.0,
+        "total": 310.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 28,
+        "desc": "WEBSLING 5 TON X 3 MTR",
+        "uom": "Nos",
+        "qty": 10.0,
+        "price": 650.0,
+        "total": 325.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 29,
+        "desc": "WEBSLING 5 TON X 5 MTR",
+        "uom": "Nos",
+        "qty": 10.0,
+        "price": 1000.0,
+        "total": 500.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 30,
+        "desc": "WEBSLING 3 TON X 2 MTR",
+        "uom": "Nos",
+        "qty": 2.0,
+        "price": 320.0,
+        "total": 32.0,
+        "type": "ASSET"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 036 REFRACTORY BLADE",
+    "po_no": "MMTPL/PO/LMEL/26-27/036",
+    "date": "2026-09-14",
+    "vendor": "SINTECH DIMAND TOOLS",
+    "payment_terms": "1) Payment Terms :  100% Advance before Dispatch",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 4100.0,
+    "items_count": 2,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "Brick Cutting Blade 16\" Diamond Segmented Saws",
+        "uom": "Nos",
+        "qty": 10.0,
+        "price": 3500.0,
+        "total": 3500.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "Transportation as per actual - VRL Logistic",
+        "uom": "Nos",
+        "qty": 1.0,
+        "price": 600.0,
+        "total": 600.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 037 MECHANICAL",
+    "po_no": "MMTPL/PO/LMEL/26-27/037",
+    "date": "2026-09-19",
+    "vendor": "R.J INDUSTRIAL SAFETY",
+    "payment_terms": "1) Payment Terms :",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 68823.872,
+    "items_count": 49,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "POWER CABLE 3C X 1.5 SQ,MM",
+        "uom": "Meters",
+        "qty": 200.0,
+        "price": 55.0,
+        "total": 1980.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "POWER CABLE 4C X 2.5 SQ,MM",
+        "uom": "Meters",
+        "qty": 200.0,
+        "price": 80.0,
+        "total": 2880.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "POWER CABLE 4C X 4 SQ,MM",
+        "uom": "Meters",
+        "qty": 200.0,
+        "price": 130.0,
+        "total": 4680.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "CUTTING HOSE (RED)",
+        "uom": "MTRS",
+        "qty": 200.0,
+        "price": 42.0,
+        "total": 1512.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 5,
+        "desc": "CUTTING HOSE (BLUE)",
+        "uom": "MTRS",
+        "qty": 200.0,
+        "price": 42.0,
+        "total": 1512.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 6,
+        "desc": "CUTTING TORCH(THREE WAY PIPE)",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 3200.0,
+        "total": 5760.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 7,
+        "desc": "3 PIN PIEPE LPG Nozzle-3/64",
+        "uom": "NOS",
+        "qty": 30.0,
+        "price": 350.0,
+        "total": 1890.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 8,
+        "desc": "3 PIN PIEPE LPG Nozzle-1/16",
+        "uom": "NOS",
+        "qty": 30.0,
+        "price": 350.0,
+        "total": 1890.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 9,
+        "desc": "FLASH BACK ARRESTOR-TORCH",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 550.0,
+        "total": 1980.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 10,
+        "desc": "FLASH BACK ARRESTOR-REGULATOR",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 550.0,
+        "total": 1980.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 11,
+        "desc": "CUTTING HOSE CLAMP",
+        "uom": "NOS",
+        "qty": 150.0,
+        "price": 5.0,
+        "total": 135.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 12,
+        "desc": "REGULATOR(LPG WITH ADOPTER-24MM)",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 1900.0,
+        "total": 3420.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 13,
+        "desc": "REGULATOR(OXYGEN)",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 1900.0,
+        "total": 3420.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 14,
+        "desc": "REULATOR(CO2)",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 1900.0,
+        "total": 3420.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 15,
+        "desc": "95 Sq. MM LUG",
+        "uom": "NOS",
+        "qty": 100.0,
+        "price": 18.0,
+        "total": 324.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 16,
+        "desc": "WELDING CABLE",
+        "uom": "MTRS",
+        "qty": 400.0,
+        "price": 120.0,
+        "total": 8640.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 17,
+        "desc": "SAFETY HELMET WITH WELDING SHIELD",
+        "uom": "NOS",
+        "qty": 30.0,
+        "price": 350.0,
+        "total": 1890.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 18,
+        "desc": "Retractable Fall Arrestor",
+        "uom": "NOS",
+        "qty": 6.0,
+        "price": 1500.0,
+        "total": 1620.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 19,
+        "desc": "HAMMER-2LB",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 250.0,
+        "total": 225.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 20,
+        "desc": "HAMMER-3LB",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 400.0,
+        "total": 360.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 21,
+        "desc": "HAMMER-5LB",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 500.0,
+        "total": 450.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 22,
+        "desc": "CHISEL (150MM)",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 80.0,
+        "total": 288.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 23,
+        "desc": "SCREW SPANNER-8''",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 308.0,
+        "total": 554.4,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 24,
+        "desc": "CENTER PUNCH",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 90.0,
+        "total": 324.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 25,
+        "desc": "DE & RING SPANNER-24X26",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 136.0,
+        "total": 244.79999999999998,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 26,
+        "desc": "DE & RING SPANNER-24X27",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 257.0,
+        "total": 462.59999999999997,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 27,
+        "desc": "HAMMERING SPANNER-36MM",
+        "uom": "NOS",
+        "qty": 6.0,
+        "price": 746.0,
+        "total": 805.68,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 28,
+        "desc": "16 Sq.mm Copper cable",
+        "uom": "Mtrs",
+        "qty": 50.0,
+        "price": 155.0,
+        "total": 1395.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 29,
+        "desc": "APPRON body",
+        "uom": "NOS",
+        "qty": 25.0,
+        "price": 180.0,
+        "total": 810.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 30,
+        "desc": "SAFETY HELMET (BLUE)",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 200.0,
+        "total": 360.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 31,
+        "desc": "REFLETIVE JACKET -BLUE",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 60.0,
+        "total": 30.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 32,
+        "desc": "REFLETIVE JACKET -ORANGE",
+        "uom": "NOS",
+        "qty": 50.0,
+        "price": 60.0,
+        "total": 150.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 33,
+        "desc": "SAFETY SHOES (SIZE-10)",
+        "uom": "PAIR",
+        "qty": 28.0,
+        "price": 330.0,
+        "total": 462.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 34,
+        "desc": "SAFETY SHOES (SIZE-9)",
+        "uom": "PAIR",
+        "qty": 25.0,
+        "price": 330.0,
+        "total": 412.5,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 35,
+        "desc": "SAFETY SHOES (SIZE-8)",
+        "uom": "PAIR",
+        "qty": 25.0,
+        "price": 330.0,
+        "total": 412.5,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 36,
+        "desc": "SAFETY SHOES (SIZE-7)",
+        "uom": "PAIR",
+        "qty": 25.0,
+        "price": 330.0,
+        "total": 412.5,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 37,
+        "desc": "SAFETY SHOES (SIZE-6)",
+        "uom": "PAIR",
+        "qty": 25.0,
+        "price": 330.0,
+        "total": 412.5,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 38,
+        "desc": "SAFETY BELT(FULL BODY HORNESS)",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 1550.0,
+        "total": 1550.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 39,
+        "desc": "GOGGLES (WHITE)",
+        "uom": "NOS",
+        "qty": 50.0,
+        "price": 20.0,
+        "total": 180.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 40,
+        "desc": "GOGGLES (BLACK)",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 20.0,
+        "total": 72.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 41,
+        "desc": "MEASUREMENT TAPE-3 METERS",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 45.0,
+        "total": 162.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 42,
+        "desc": "MEASUREMENT TAPE-5 METERS",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 80.0,
+        "total": 144.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 43,
+        "desc": "65mm DE Spanner",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 1057.7,
+        "total": 380.772,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 44,
+        "desc": "60mm DE Spanner",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 1358.0,
+        "total": 488.88,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 45,
+        "desc": "60mm Hamering spanner",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 1413.3,
+        "total": 508.78799999999995,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 46,
+        "desc": "70mm Hammering spanner",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 3906.7,
+        "total": 1406.4119999999998,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 47,
+        "desc": "70mm DE Spanner",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 1851.5,
+        "total": 666.54,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 48,
+        "desc": "Mig tip 1.2 mm",
+        "uom": "NOS",
+        "qty": 200.0,
+        "price": 35.0,
+        "total": 1260.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 49,
+        "desc": "ELCB-63 AMPS",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 2500.0,
+        "total": 4500.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 038 Mechanical Electrod",
+    "po_no": "MMTPL/PO/LMEL/26-27/038",
+    "date": "2026-09-21",
+    "vendor": "R.J INDUSTRIAL SAFETY",
+    "payment_terms": "1) Payment Terms :",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 9738.0,
+    "items_count": 5,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "NORMA V 3.15MM X 450MM W/ROD- 6013 D&H INDIA",
+        "uom": "BOX",
+        "qty": 5.0,
+        "price": 2050.0,
+        "total": 1845.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "NORMA V 4.00MM W/ROD 6013 D&H INDIA",
+        "uom": "BOX",
+        "qty": 5.0,
+        "price": 2250.0,
+        "total": 2025.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "D&H WELDING ROD 7018 - 3.15MM D&H INDIA",
+        "uom": "BOX",
+        "qty": 5.0,
+        "price": 2100.0,
+        "total": 1890.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "D&H WELDING ROD 7018 - 4.00MM D&H INDIA",
+        "uom": "BOX",
+        "qty": 5.0,
+        "price": 2180.0,
+        "total": 1962.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 5,
+        "desc": "E-309 3.15X350MM (WELDFAST PER PACKET 2KG)",
+        "uom": "PACKET",
+        "qty": 10.0,
+        "price": 1120.0,
+        "total": 2016.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 039 REFRA FORKLIFT TYRE",
+    "po_no": "MMTPL/PO/LMEL/26-27/039",
+    "date": "2026-09-23",
+    "vendor": "MANGALAM TRADERS",
+    "payment_terms": "1) Payment Terms : 100% Advance",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 15480.0,
+    "items_count": 2,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "TVS Forklift Tyres 6.50-10",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 8500.0,
+        "total": 6120.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 2,
+        "desc": "TVS  Forklift Tyres 28.9-15",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 13000.0,
+        "total": 9360.0,
+        "type": "ASSET"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 040 Mechanical Electrod",
+    "po_no": "MMTPL/PO/LMEL/26-27/040",
+    "date": "2026-09-28",
+    "vendor": "R.J INDUSTRIAL SAFETY",
+    "payment_terms": "1) Payment Terms :",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 8985.6,
+    "items_count": 4,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "NORMA V 4.00MM W/ROD 6013 D&H INDIA",
+        "uom": "BOX",
+        "qty": 10.0,
+        "price": 2250.0,
+        "total": 4050.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "D&H WELDING ROD 7018 - 3.15MM D&H INDIA",
+        "uom": "BOX",
+        "qty": 10.0,
+        "price": 2100.0,
+        "total": 3780.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "LEATHER HANDGLOVES",
+        "uom": "PAIR",
+        "qty": 74.0,
+        "price": 80.0,
+        "total": 1065.6,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "COTTON HANDGLOVES",
+        "uom": "PAIR",
+        "qty": 100.0,
+        "price": 18.0,
+        "total": 90.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 041 Hydraulic Jack",
+    "po_no": "MMTPL/PO/LMEL/26-27/040",
+    "date": "2026-09-28",
+    "vendor": "SAIFEE MACHINE TOOLS",
+    "payment_terms": "1) Payment Terms :",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 13320.0,
+    "items_count": 1,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "Hydraulic Jack 50 Ton Capacity (RMT 100)",
+        "uom": "Set",
+        "qty": 4.0,
+        "price": 18500.0,
+        "total": 13320.0,
+        "type": "ASSET"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 042 Mechanical ",
+    "po_no": "MMTPL/PO/LMEL/26-27/042",
+    "date": "2026-09-28",
+    "vendor": "Andhra Machine Tools Corporation",
+    "payment_terms": "1) Payment Terms :",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 103220.08,
+    "items_count": 28,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "WELDING ELECTRODE 7018-3.15MM D&H SECHRON (LENGTH 450)",
+        "uom": "BOX",
+        "qty": 40.0,
+        "price": 1940.0,
+        "total": 13968.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "WELDING ELECTRODE 7018-4.0MM D&H SECHRON (LENGTH 450)",
+        "uom": "BOX",
+        "qty": 20.0,
+        "price": 2010.0,
+        "total": 7236.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "WELDING ELECTRODE 6013-3.15MM D&H SECHRON (LENGTH 450)",
+        "uom": "BOX",
+        "qty": 20.0,
+        "price": 1950.0,
+        "total": 7020.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "WELDING ELECTRODE 6013-4.00MM D&H SECHRON (LENGTH 450)",
+        "uom": "BOX",
+        "qty": 22.0,
+        "price": 2010.0,
+        "total": 7959.599999999999,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 5,
+        "desc": "LEATHER HANDGLOVES",
+        "uom": "PAIR",
+        "qty": 50.0,
+        "price": 60.0,
+        "total": 540.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 6,
+        "desc": "COTTON HANDGLOVES",
+        "uom": "PAIR",
+        "qty": 200.0,
+        "price": 15.0,
+        "total": 150.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 7,
+        "desc": "SPRIT LEVEL 12''",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 350.0,
+        "total": 630.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 8,
+        "desc": "HOSE JOINT 8 MM",
+        "uom": "NOS",
+        "qty": 100.0,
+        "price": 25.0,
+        "total": 450.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 9,
+        "desc": "WATER LEVEL TUBE 10 MM (30MTR BUNDLE)",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 350.0,
+        "total": 630.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 10,
+        "desc": "SAFETY SHOE FOR STAFF 7",
+        "uom": "PAIR",
+        "qty": 3.0,
+        "price": 550.0,
+        "total": 82.5,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 11,
+        "desc": "SAFETY SHOE FOR STAFF 8",
+        "uom": "PAIR",
+        "qty": 5.0,
+        "price": 550.0,
+        "total": 137.5,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 12,
+        "desc": "SAFETY SHOE FOR STAFF 9",
+        "uom": "PAIR",
+        "qty": 7.0,
+        "price": 550.0,
+        "total": 192.5,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 13,
+        "desc": "SAFETY SHOE FOR STAFF 10",
+        "uom": "PAIR",
+        "qty": 5.0,
+        "price": 550.0,
+        "total": 137.5,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 14,
+        "desc": "MALE SOCKET (16 AMPS 3 PIN) IP 44",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 75.0,
+        "total": 135.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 15,
+        "desc": "FEMALE SOCKET (16 AMPS 3 PIN) IP 44",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 75.0,
+        "total": 135.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 16,
+        "desc": "MALE SOCKET (32 AMPS 3 PIN) IP 44",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 110.0,
+        "total": 198.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 17,
+        "desc": "FEMALE SOCKET (32 AMPS 3 PIN) IP 44",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 110.0,
+        "total": 198.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 18,
+        "desc": "SAFETY SHOE FOR LABOUR SIZE 7",
+        "uom": "PAIR",
+        "qty": 30.0,
+        "price": 330.0,
+        "total": 495.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 19,
+        "desc": "SAFETY SHOE FOR LABOUR SIZE 8",
+        "uom": "PAIR",
+        "qty": 30.0,
+        "price": 330.0,
+        "total": 495.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 20,
+        "desc": "SAFETY SHOE FOR LABOUR SIZE 9",
+        "uom": "PAIR",
+        "qty": 30.0,
+        "price": 330.0,
+        "total": 495.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 21,
+        "desc": "SAFETY SHOE FOR LABOUR SIZE 10",
+        "uom": "PAIR",
+        "qty": 30.0,
+        "price": 330.0,
+        "total": 495.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 22,
+        "desc": "ORRANGE JACKET",
+        "uom": "NOS",
+        "qty": 100.0,
+        "price": 50.0,
+        "total": 900.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 23,
+        "desc": "BLUE JACKET",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 60.0,
+        "total": 216.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 24,
+        "desc": "WELDING CABLE 95 SQM 100 MTR",
+        "uom": "BUNDLE",
+        "qty": 5.0,
+        "price": 9000.0,
+        "total": 8100.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 25,
+        "desc": "HAMMERING SPANNER - 60 MM",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 1413.0,
+        "total": 508.68,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 26,
+        "desc": "PIPE WRINCH 2'', 4'', 8'', 10'', 12'' (EACH 2 NOS)",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 2305.0,
+        "total": 829.8,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 27,
+        "desc": "PIONO WIRE",
+        "uom": "KG",
+        "qty": 6.0,
+        "price": 450.0,
+        "total": 486.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 28,
+        "desc": "WELDING MACHINE VIRGO PLUS INVERTER W/M ARC- 400 HDIJ (3PH) 3 - PH",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 28000.0,
+        "total": 50400.0,
+        "type": "ASSET"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 043 Mechanical SLINGS",
+    "po_no": "MMTPL/PO/LMEL/26-27/043",
+    "date": "2026-09-30",
+    "vendor": "Andhra Machine Tools Corporation",
+    "payment_terms": "1) Payment Terms :",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 32112.72,
+    "items_count": 8,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "Wire rope sling-16mmx4mtrs(Eye length-250mm & Single Crimp)",
+        "uom": "NOS",
+        "qty": 8.0,
+        "price": 1300.0,
+        "total": 1872.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 2,
+        "desc": "Wire rope sling-16mmx6mtrs(Eye length-250mm & Single Crimp)",
+        "uom": "NOS",
+        "qty": 8.0,
+        "price": 1600.0,
+        "total": 2304.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 3,
+        "desc": "Wire rope sling-20mmx6mtrs(Eye length-250mm & Single Crimp)",
+        "uom": "NOS",
+        "qty": 8.0,
+        "price": 2100.0,
+        "total": 3024.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 4,
+        "desc": "Wire rope sling-20mmx8mtrs(Eye length-250mm & Single Crimp)",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 2540.0,
+        "total": 1828.8,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 5,
+        "desc": "Wire rope sling-25mmx8mtrs(Eye length-500mm & Double Crimp)",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 4980.0,
+        "total": 3585.6,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 6,
+        "desc": "Wire rope sling-25mmx6mtrs(Eye length-500mm & Double Crimp)",
+        "uom": "NOS",
+        "qty": 8.0,
+        "price": 4390.0,
+        "total": 6321.599999999999,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 7,
+        "desc": "Wire rope sling-32mmx6mtrs(Eye length-500mm & Double Crimp)",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 8161.0,
+        "total": 5875.92,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 8,
+        "desc": "Wire rope sling-32mmx8mtrs(Eye length-500mm & Double Crimp)",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 10140.0,
+        "total": 7300.8,
+        "type": "ASSET"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 044 Mechanical Refra",
+    "po_no": "MMTPL/PO/LMEL/26-27/044",
+    "date": "2026-09-30",
+    "vendor": "Andhra Machine Tools Corporation",
+    "payment_terms": "1) Payment Terms :",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 8989.2,
+    "items_count": 2,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "FEVICOL SR505",
+        "uom": "LTR",
+        "qty": 40.0,
+        "price": 336.0,
+        "total": 2419.2,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "BRICK CUTTING BLADE 400MMX 50MM",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 3650.0,
+        "total": 6570.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 045 Hydraulic Jack",
+    "po_no": "MMTPL/PO/LMEL/26-27/045",
+    "date": "2026-10-05",
+    "vendor": "SAIFEE MACHINE TOOLS",
+    "payment_terms": "1) Payment Terms :",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 14040.0,
+    "items_count": 3,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "Hydraulic Jack 50 Ton Capacity (RMT 100)",
+        "uom": "Set",
+        "qty": 4.0,
+        "price": 18500.0,
+        "total": 13320.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 2,
+        "desc": "CONNECTER FOR POWER PACK WITH HOSE PIPE",
+        "uom": "Set",
+        "qty": 1.0,
+        "price": 3600.0,
+        "total": 648.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "PACKING AND FORWARDING",
+        "uom": "1",
+        "qty": 1.0,
+        "price": 400.0,
+        "total": 72.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 046 REFRACTORY HANDGLOV",
+    "po_no": "MMTPL/PO/LMEL/26-27/046",
+    "date": "2026-10-07",
+    "vendor": "PAKIZA HARDWARE AND BUILDING MATERIAL",
+    "payment_terms": "1) Payment Terms :",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 1800.0,
+    "items_count": 2,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "DUST MASK",
+        "uom": "PAIR",
+        "qty": 500.0,
+        "price": 15.0,
+        "total": 1350.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "COTTON HANDGLOVES",
+        "uom": "PAIR",
+        "qty": 500.0,
+        "price": 18.0,
+        "total": 450.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 047 MECHANICAL",
+    "po_no": "MMTPL/PO/LMEL/26-27/047",
+    "date": "2026-10-15",
+    "vendor": "R.J INDUSTRIAL SAFETY",
+    "payment_terms": "1) Payment Terms :",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 4321.8,
+    "items_count": 6,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "AG7 GRINDING WHEEL (BOSCH)",
+        "uom": "NOS",
+        "qty": 200.0,
+        "price": 78.0,
+        "total": 2808.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "PIANO WIRE",
+        "uom": "KGS",
+        "qty": 10.0,
+        "price": 550.0,
+        "total": 990.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "COTTON HAND GLOVES",
+        "uom": "PAIR",
+        "qty": 200.0,
+        "price": 18.0,
+        "total": 180.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "WELDING WHITE GLASS",
+        "uom": "NOS",
+        "qty": 200.0,
+        "price": 5.0,
+        "total": 180.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 5,
+        "desc": "WELDING BLACK GLASS",
+        "uom": "NOS",
+        "qty": 30.0,
+        "price": 25.0,
+        "total": 135.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 6,
+        "desc": "SAFETY JACKET GREEN POCKET",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 160.0,
+        "total": 28.799999999999997,
+        "type": "ASSET"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 048 Mechanical ELECT",
+    "po_no": "MMTPL/PO/LMEL/26-27/048",
+    "date": "2026-10-27",
+    "vendor": "Andhra Machine Tools Corporation",
+    "payment_terms": "1) Payment Terms :",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 63535.5,
+    "items_count": 6,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "WELDING ELECTRODE 7018-3.15MM D&H SECHRON (LENGTH 450)",
+        "uom": "BOX",
+        "qty": 40.0,
+        "price": 1940.0,
+        "total": 13968.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "WELDING ELECTRODE 7018-4.0MM D&H SECHRON (LENGTH 450)",
+        "uom": "BOX",
+        "qty": 25.0,
+        "price": 2010.0,
+        "total": 9045.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "WELDING ELECTRODE 6013-3.15MM D&H SECHRON (LENGTH 450)",
+        "uom": "BOX",
+        "qty": 30.0,
+        "price": 1950.0,
+        "total": 10530.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "WELDING ELECTRODE 6013-4.00MM D&H SECHRON (LENGTH 450)",
+        "uom": "BOX",
+        "qty": 25.0,
+        "price": 2010.0,
+        "total": 9045.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 5,
+        "desc": "E-309 3.15X350MM (WELDFAST PER PACKET 2KG)",
+        "uom": "PACKET",
+        "qty": 50.0,
+        "price": 1120.0,
+        "total": 10080.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 6,
+        "desc": "MIG WIRE 1.2MM",
+        "uom": "KG",
+        "qty": 525.0,
+        "price": 115.0,
+        "total": 10867.5,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 049 Mechanical",
+    "po_no": "MMTPL/PO/LMEL/26-27/049",
+    "date": "2026-10-30",
+    "vendor": "Andhra Machine Tools Corporation",
+    "payment_terms": "1) Payment Terms :",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 31938.0,
+    "items_count": 23,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "Leather hand gloves",
+        "uom": "PAIR",
+        "qty": 100.0,
+        "price": 60.0,
+        "total": 1080.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "Cotton  hand gloves",
+        "uom": "PAIR",
+        "qty": 300.0,
+        "price": 15.0,
+        "total": 225.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "SAFETY HELMET -Yellow",
+        "uom": "NOS",
+        "qty": 50.0,
+        "price": 105.0,
+        "total": 945.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "REFLECTIVE JACKET-ORANGE",
+        "uom": "NOS",
+        "qty": 50.0,
+        "price": 50.0,
+        "total": 450.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 5,
+        "desc": "SHOES-7NO",
+        "uom": "PAIR",
+        "qty": 15.0,
+        "price": 330.0,
+        "total": 247.5,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 6,
+        "desc": "SHOES-8NO",
+        "uom": "PAIR",
+        "qty": 20.0,
+        "price": 330.0,
+        "total": 330.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 7,
+        "desc": "SHOES-9NO",
+        "uom": "PAIR",
+        "qty": 20.0,
+        "price": 330.0,
+        "total": 330.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 8,
+        "desc": "SHOES-10NO",
+        "uom": "PAIR",
+        "qty": 10.0,
+        "price": 330.0,
+        "total": 165.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 9,
+        "desc": "CUTTING TORCH-(3Way torch)",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 2050.0,
+        "total": 3690.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 10,
+        "desc": "CUTTING HOSE-RED",
+        "uom": "NOS",
+        "qty": 200.0,
+        "price": 40.0,
+        "total": 1440.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 11,
+        "desc": "CUTTING HOSE-BLUE",
+        "uom": "NOS",
+        "qty": 200.0,
+        "price": 40.0,
+        "total": 1440.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 12,
+        "desc": "REGULATOR-LPG(WITH ADPTOR)",
+        "uom": "NOS",
+        "qty": 15.0,
+        "price": 1500.0,
+        "total": 4050.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 13,
+        "desc": "REGULATOR-OXYGEN",
+        "uom": "NOS",
+        "qty": 15.0,
+        "price": 1600.0,
+        "total": 4320.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 14,
+        "desc": "FLASH BACK ARRESTOR-LPG torch side",
+        "uom": "NOS",
+        "qty": 15.0,
+        "price": 450.0,
+        "total": 1215.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 15,
+        "desc": "FLASH BACK ARRESTOR-LPG regulator side",
+        "uom": "NOS",
+        "qty": 15.0,
+        "price": 450.0,
+        "total": 1215.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 16,
+        "desc": "FLASH BACK ARRESTOR-O2 torch side",
+        "uom": "NOS",
+        "qty": 15.0,
+        "price": 450.0,
+        "total": 1215.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 17,
+        "desc": "FLASH BACK ARRESTOR-O2 regulator side",
+        "uom": "NOS",
+        "qty": 15.0,
+        "price": 450.0,
+        "total": 1215.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 18,
+        "desc": "WELDING HOLDER Heavy Duty",
+        "uom": "NOS",
+        "qty": 30.0,
+        "price": 220.0,
+        "total": 1188.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 19,
+        "desc": "CUTTING NOZLE-3/64",
+        "uom": "NOS",
+        "qty": 50.0,
+        "price": 225.0,
+        "total": 2025.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 20,
+        "desc": "CUTTING NOZLE-1/16",
+        "uom": "NOS",
+        "qty": 50.0,
+        "price": 225.0,
+        "total": 2025.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 21,
+        "desc": "WELDING APPRON",
+        "uom": "NOS",
+        "qty": 25.0,
+        "price": 165.0,
+        "total": 742.5,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 22,
+        "desc": "LEG GUARD AND HAND SLEEVE",
+        "uom": "NOS",
+        "qty": 25.0,
+        "price": 160.0,
+        "total": 720.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 23,
+        "desc": "FIR EXTIGUSHER-4 KGS",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 1850.0,
+        "total": 1665.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 050 MECHANICAL",
+    "po_no": "MMTPL/PO/LMEL/26-27/050",
+    "date": "2026-11-02",
+    "vendor": "R.J INDUSTRIAL SAFETY",
+    "payment_terms": "1) Payment Terms :",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 352.8,
+    "items_count": 4,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "SLATE PENCIL",
+        "uom": "BOX",
+        "qty": 5.0,
+        "price": 130.0,
+        "total": 0.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "BROWN TAPE",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 40.0,
+        "total": 72.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "BERIGATING TAPE",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 280.0,
+        "total": 100.8,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "NOSE MASK",
+        "uom": "NOS",
+        "qty": 50.0,
+        "price": 20.0,
+        "total": 180.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 051 MECHANICAL",
+    "po_no": "MMTPL/PO/LMEL/26-27/051",
+    "date": "2026-11-02",
+    "vendor": "R.J INDUSTRIAL SAFETY",
+    "payment_terms": "1) Payment Terms :",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 11729.6,
+    "items_count": 15,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "SAFETY HELMET YELLOW",
+        "uom": "NOS",
+        "qty": 60.0,
+        "price": 220.0,
+        "total": 2376.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "CUT PROOF HAND GLOVES",
+        "uom": "PAIR",
+        "qty": 336.0,
+        "price": 30.0,
+        "total": 1814.3999999999999,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "NOSE MASK",
+        "uom": "NOS",
+        "qty": 400.0,
+        "price": 20.0,
+        "total": 1440.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "JACKET L&T",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 160.0,
+        "total": 8.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 5,
+        "desc": "DOTED HANDGLOVES",
+        "uom": "PAIR",
+        "qty": 200.0,
+        "price": 18.0,
+        "total": 180.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 6,
+        "desc": "LEATHER HAND GLOVES",
+        "uom": "PAIR",
+        "qty": 50.0,
+        "price": 90.0,
+        "total": 810.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 7,
+        "desc": "WELDING HOLDER",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 350.0,
+        "total": 1260.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 8,
+        "desc": "MIG DIFUSER",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 55.0,
+        "total": 99.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 9,
+        "desc": "BLACK GLASS",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 30.0,
+        "total": 108.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 10,
+        "desc": "WELDING HOLDER",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 350.0,
+        "total": 1260.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 11,
+        "desc": "MIG NOZZLE (36KD)",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 160.0,
+        "total": 288.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 12,
+        "desc": "OXYGEN KEY",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 50.0,
+        "total": 90.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 13,
+        "desc": "MIG TIP",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 35.0,
+        "total": 63.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 14,
+        "desc": "LINE DORI",
+        "uom": "NOS",
+        "qty": 12.0,
+        "price": 20.0,
+        "total": 43.199999999999996,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 15,
+        "desc": "WELDING ELECTRODE 7018 3:15MM",
+        "uom": "CASE",
+        "qty": 5.0,
+        "price": 2100.0,
+        "total": 1890.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 052 MECHANICAL",
+    "po_no": "MMTPL/PO/LMEL/26-27/052",
+    "date": "2026-11-02",
+    "vendor": "R.J INDUSTRIAL SAFETY",
+    "payment_terms": "1) Payment Terms :",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 2320.2,
+    "items_count": 11,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "BLACK GLASS",
+        "uom": "NOS",
+        "qty": 50.0,
+        "price": 30.0,
+        "total": 270.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "BLUE HELMET RACHIT",
+        "uom": "NOS",
+        "qty": 8.0,
+        "price": 220.0,
+        "total": 316.8,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "HOSE CLAMP",
+        "uom": "NOS",
+        "qty": 100.0,
+        "price": 12.0,
+        "total": 216.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "RIGHT ANGLE 6''",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 235.0,
+        "total": 169.2,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 5,
+        "desc": "RIGHT ANGLE 12",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 450.0,
+        "total": 405.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 6,
+        "desc": "MEASUREMENT TAPE 5 MTR",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 100.0,
+        "total": 180.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 7,
+        "desc": "MEASUREMENT TAPE 3 MTR",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 60.0,
+        "total": 108.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 8,
+        "desc": "LINE DORI",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 20.0,
+        "total": 72.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 9,
+        "desc": "SCREW SPANNER 12''",
+        "uom": "NOS",
+        "qty": 3.0,
+        "price": 300.0,
+        "total": 162.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 10,
+        "desc": "BERIGATING TAPE",
+        "uom": "NOS",
+        "qty": 3.0,
+        "price": 280.0,
+        "total": 151.2,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 11,
+        "desc": "95 SQM LUG",
+        "uom": "MTR",
+        "qty": 100.0,
+        "price": 15.0,
+        "total": 270.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 053 MECHANICAL",
+    "po_no": "MMTPL/PO/LMEL/26-27/053",
+    "date": "2026-11-03",
+    "vendor": "R.J INDUSTRIAL SAFETY",
+    "payment_terms": "1) Payment Terms :",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 14634.0,
+    "items_count": 12,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "WELDING CABLE 95 SQM",
+        "uom": "MTR",
+        "qty": 300.0,
+        "price": 120.0,
+        "total": 6480.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "PAINT BRUSH",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 60.0,
+        "total": 108.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "WIRE BRUSH",
+        "uom": "NOS",
+        "qty": 50.0,
+        "price": 55.0,
+        "total": 495.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "FACE SHEILD",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 180.0,
+        "total": 648.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 5,
+        "desc": "AG-5 GRINDING WHEEL BOSCH",
+        "uom": "NOS",
+        "qty": 100.0,
+        "price": 63.0,
+        "total": 1134.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 6,
+        "desc": "AG-7 GRINDING WHEEL BOSCH",
+        "uom": "NOS",
+        "qty": 100.0,
+        "price": 90.0,
+        "total": 1620.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 7,
+        "desc": "AG-5 CUTTING WHEEL BOSCH",
+        "uom": "NOS",
+        "qty": 100.0,
+        "price": 45.0,
+        "total": 810.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 8,
+        "desc": "AG-7 CUTTING WHEEL BOSCH",
+        "uom": "NOS",
+        "qty": 100.0,
+        "price": 82.0,
+        "total": 1476.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 9,
+        "desc": "MEASUREMENT TAPE 15 MTR",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 850.0,
+        "total": 765.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 10,
+        "desc": "SCREW SPANNER",
+        "uom": "NOS",
+        "qty": 15.0,
+        "price": 300.0,
+        "total": 810.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 11,
+        "desc": "MEASUREMENT TAPE 15 MTR",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 100.0,
+        "total": 180.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 12,
+        "desc": "MEASUREMENT TAPE 15 MTR",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 60.0,
+        "total": 108.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 054 REFRACTORY",
+    "po_no": "MMTPL/PO/LMEL/26-27/054",
+    "date": "2026-11-11",
+    "vendor": "R.J INDUSTRIAL SAFETY",
+    "payment_terms": "1) Payment Terms :",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 1612.8,
+    "items_count": 4,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "CUT PROOF UDYOGI MAKE",
+        "uom": "MTR",
+        "qty": 120.0,
+        "price": 42.0,
+        "total": 907.1999999999999,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "DOTTED HAND GLOVES UDYOGI",
+        "uom": "NOS",
+        "qty": 96.0,
+        "price": 20.0,
+        "total": 345.59999999999997,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "WHITE HELMET UDYOGI",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 220.0,
+        "total": 198.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "GREEN JACKET ZIP",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 180.0,
+        "total": 162.0,
+        "type": "ASSET"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 055 REFRACTORY",
+    "po_no": "MMTPL/PO/LMEL/26-27/055",
+    "date": "2026-11-19",
+    "vendor": "Andhra Machine Tools Corporation",
+    "payment_terms": "1) Payment Terms :",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 11322.18,
+    "items_count": 19,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "HAND GLOVES Udyogi (grey)",
+        "uom": "NOS",
+        "qty": 400.0,
+        "price": 30.0,
+        "total": 2160.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "NOSE MASK",
+        "uom": "NOS",
+        "qty": 200.0,
+        "price": 10.0,
+        "total": 360.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "STEEL NAILS 2.5'' (Hard)",
+        "uom": "KG",
+        "qty": 5.0,
+        "price": 180.0,
+        "total": 162.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "STEEL NAILS 3'' (Hard)",
+        "uom": "KG",
+        "qty": 5.0,
+        "price": 180.0,
+        "total": 162.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 5,
+        "desc": "WOOD CUTTING BLADE 4''",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 180.0,
+        "total": 162.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 6,
+        "desc": "WEB SLING 5 TON 6 MTR",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 1400.0,
+        "total": 504.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 7,
+        "desc": "LINE DORI",
+        "uom": "PKT",
+        "qty": 1.0,
+        "price": 60.0,
+        "total": 10.799999999999999,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 8,
+        "desc": "PENCIL BOX Natraj",
+        "uom": "PKT",
+        "qty": 12.0,
+        "price": 8.0,
+        "total": 17.28,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 9,
+        "desc": "SAFETY SHOEES SIZE-8",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 330.0,
+        "total": 59.4,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 10,
+        "desc": "SAFETY SHOEES SIZE-9",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 330.0,
+        "total": 59.4,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 11,
+        "desc": "SAFETY SHOEES SIZE-10",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 330.0,
+        "total": 59.4,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 12,
+        "desc": "SAFETY JACKET  BLUE",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 60.0,
+        "total": 54.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 13,
+        "desc": "INSULATION TAPE",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 10.0,
+        "total": 18.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 14,
+        "desc": "HACK SAW BLADE",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 75.0,
+        "total": 67.5,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 15,
+        "desc": "BRICK CUTTING BLADE 16''",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 3650.0,
+        "total": 6570.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 16,
+        "desc": "FACE SHIELD FOR BRICK CUTTING",
+        "uom": "NOS",
+        "qty": 6.0,
+        "price": 180.0,
+        "total": 194.4,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 17,
+        "desc": "WATERPROOF APRON",
+        "uom": "NOS",
+        "qty": 6.0,
+        "price": 250.0,
+        "total": 270.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 18,
+        "desc": "CAUTION TAPE Berigation",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 280.0,
+        "total": 252.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 19,
+        "desc": "MEASUREMENT TAPE 5 MTR",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 100.0,
+        "total": 180.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 056 Mechanical",
+    "po_no": "MMTPL/PO/LMEL/26-27/056",
+    "date": "2026-11-24",
+    "vendor": "Andhra Machine Tools Corporation",
+    "payment_terms": "1) Payment Terms :",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 116930.4,
+    "items_count": 49,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "ELECTRODE 6013 x 3.15-450 MM",
+        "uom": "CASE",
+        "qty": 50.0,
+        "price": 1950.0,
+        "total": 17550.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "ELECTRODE 6013 x 4 -450 MM",
+        "uom": "CASE",
+        "qty": 40.0,
+        "price": 2010.0,
+        "total": 14472.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "ELECTRODE 7018 x 3.15-450 MM",
+        "uom": "CASE",
+        "qty": 80.0,
+        "price": 1940.0,
+        "total": 27936.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "ELECTRODE 7018 x 4 -450 MM",
+        "uom": "CASE",
+        "qty": 50.0,
+        "price": 2010.0,
+        "total": 18090.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 5,
+        "desc": "MIG COIL",
+        "uom": "Rolls",
+        "qty": 150.0,
+        "price": 115.0,
+        "total": 3105.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 6,
+        "desc": "22 mm Lpg Cylinder Adaptor Vertical",
+        "uom": "No's",
+        "qty": 10.0,
+        "price": 1500.0,
+        "total": 2700.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 7,
+        "desc": "24 mm Lpg Cylinder Adaptor Vertical",
+        "uom": "No's",
+        "qty": 10.0,
+        "price": 1500.0,
+        "total": 2700.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 8,
+        "desc": "32 Amps female Socket 5 Pin",
+        "uom": "No's",
+        "qty": 20.0,
+        "price": 110.0,
+        "total": 396.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 9,
+        "desc": "32 Amps Male Socket 5 Pin",
+        "uom": "No's",
+        "qty": 30.0,
+        "price": 110.0,
+        "total": 594.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 10,
+        "desc": "Belt Slings 3T x 3 Mtrs",
+        "uom": "No's",
+        "qty": 10.0,
+        "price": 420.0,
+        "total": 756.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 11,
+        "desc": "Belt Slings 3T x 5 Mtrs",
+        "uom": "No's",
+        "qty": 10.0,
+        "price": 630.0,
+        "total": 1134.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 12,
+        "desc": "Belt Slings 5T x 3 Mtrs",
+        "uom": "No's",
+        "qty": 10.0,
+        "price": 650.0,
+        "total": 1170.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 13,
+        "desc": "Belt Slings 5T x 5 Mtrs",
+        "uom": "No's",
+        "qty": 10.0,
+        "price": 1050.0,
+        "total": 1890.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 14,
+        "desc": "Center Punch 10 Inch",
+        "uom": "No's",
+        "qty": 10.0,
+        "price": 90.0,
+        "total": 162.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 15,
+        "desc": "Chizzle 10 Inch",
+        "uom": "No's",
+        "qty": 10.0,
+        "price": 140.0,
+        "total": 252.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 16,
+        "desc": "O2 Regulator O Ring Kit/Washer Kit",
+        "uom": "Pkts",
+        "qty": 30.0,
+        "price": 25.0,
+        "total": 135.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 17,
+        "desc": "LPG Regulator Washer",
+        "uom": "No's",
+        "qty": 20.0,
+        "price": 30.0,
+        "total": 108.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 18,
+        "desc": "Nozzle 3 Pin 1/16",
+        "uom": "No's",
+        "qty": 10.0,
+        "price": 225.0,
+        "total": 405.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 19,
+        "desc": "Nozzle 3 Pin 3/16",
+        "uom": "No's",
+        "qty": 10.0,
+        "price": 225.0,
+        "total": 405.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 20,
+        "desc": "Flash Back Arrestor Regulator",
+        "uom": "No's",
+        "qty": 15.0,
+        "price": 450.0,
+        "total": 1215.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 21,
+        "desc": "Flash Back Arrestor Torch",
+        "uom": "No's",
+        "qty": 15.0,
+        "price": 450.0,
+        "total": 1215.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 22,
+        "desc": "CUTTING WHEEL AG 7",
+        "uom": "No's",
+        "qty": 100.0,
+        "price": 80.0,
+        "total": 1440.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 23,
+        "desc": "GRINDING WHEEL AG7",
+        "uom": "No's",
+        "qty": 200.0,
+        "price": 85.0,
+        "total": 3060.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 24,
+        "desc": "GRINDING WHEEL AG5",
+        "uom": "No's",
+        "qty": 150.0,
+        "price": 60.0,
+        "total": 1620.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 25,
+        "desc": "CUTTING WHEEL AG 5",
+        "uom": "No's",
+        "qty": 50.0,
+        "price": 45.0,
+        "total": 405.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 26,
+        "desc": "Hamer 3 LB Nylon Grip (Sledge)",
+        "uom": "No's",
+        "qty": 4.0,
+        "price": 310.0,
+        "total": 223.2,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 27,
+        "desc": "Hamer 5 LB Nylon Grip  (Sledge)",
+        "uom": "No's",
+        "qty": 8.0,
+        "price": 500.0,
+        "total": 720.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 28,
+        "desc": "Hamer 8 LB Nylon Grip (Sledge)",
+        "uom": "No's",
+        "qty": 4.0,
+        "price": 900.0,
+        "total": 648.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 29,
+        "desc": "Measerment Tape 15 MTR",
+        "uom": "No's",
+        "qty": 2.0,
+        "price": 320.0,
+        "total": 115.19999999999999,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 30,
+        "desc": "Measerment Tape 30 MTR",
+        "uom": "No's",
+        "qty": 2.0,
+        "price": 450.0,
+        "total": 162.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 31,
+        "desc": "Screw Spanner 10 Inch",
+        "uom": "No's",
+        "qty": 5.0,
+        "price": 300.0,
+        "total": 270.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 32,
+        "desc": "Screw Spanner 08 Inch",
+        "uom": "No's",
+        "qty": 5.0,
+        "price": 250.0,
+        "total": 225.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 33,
+        "desc": "PUC Tape  Electrical Insulation",
+        "uom": "No's",
+        "qty": 20.0,
+        "price": 10.0,
+        "total": 36.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 34,
+        "desc": "Rassa 14 mm",
+        "uom": "Mtrs",
+        "qty": 100.0,
+        "price": 0.0,
+        "total": 0.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 35,
+        "desc": "Right Angle 8 Inch",
+        "uom": "No's",
+        "qty": 10.0,
+        "price": 250.0,
+        "total": 450.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 36,
+        "desc": "Right Angle 6 Inch",
+        "uom": "No's",
+        "qty": 10.0,
+        "price": 180.0,
+        "total": 324.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 37,
+        "desc": "Lighter",
+        "uom": "No's",
+        "qty": 50.0,
+        "price": 30.0,
+        "total": 270.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 38,
+        "desc": "Measerment Tape 3 MTR",
+        "uom": "No's",
+        "qty": 10.0,
+        "price": 60.0,
+        "total": 108.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 39,
+        "desc": "Measerment Tape 5 MTR",
+        "uom": "No's",
+        "qty": 10.0,
+        "price": 100.0,
+        "total": 180.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 40,
+        "desc": "PIONO WAIRE",
+        "uom": "KG",
+        "qty": 10.0,
+        "price": 350.0,
+        "total": 630.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 41,
+        "desc": "Safety Shoe For Labour Size 6",
+        "uom": "Pair",
+        "qty": 60.0,
+        "price": 330.0,
+        "total": 990.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 42,
+        "desc": "Safety Shoe For Labour Size 7",
+        "uom": "Pair",
+        "qty": 80.0,
+        "price": 330.0,
+        "total": 1320.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 43,
+        "desc": "Safety Shoe For Labour Size 8",
+        "uom": "Pair",
+        "qty": 80.0,
+        "price": 330.0,
+        "total": 1320.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 44,
+        "desc": "Safety Shoe For Labour Size 9",
+        "uom": "Pair",
+        "qty": 60.0,
+        "price": 330.0,
+        "total": 990.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 45,
+        "desc": "Safety Shoe For Labour Size 10",
+        "uom": "Pair",
+        "qty": 20.0,
+        "price": 330.0,
+        "total": 330.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 46,
+        "desc": "Barication Type",
+        "uom": "No's",
+        "qty": 50.0,
+        "price": 280.0,
+        "total": 2520.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 47,
+        "desc": "Cotton Hand Glouse (Fix & Dotted)",
+        "uom": "Piar",
+        "qty": 500.0,
+        "price": 15.0,
+        "total": 375.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 48,
+        "desc": "Lather Hand Glouse",
+        "uom": "Piar",
+        "qty": 150.0,
+        "price": 60.0,
+        "total": 1620.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 49,
+        "desc": "Safety Helmet Blue",
+        "uom": "No's",
+        "qty": 10.0,
+        "price": 105.0,
+        "total": 189.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - 057 Mechanical",
+    "po_no": "MMTPL/PO/LMEL/26-27/057",
+    "date": "2026-11-22",
+    "vendor": "HAPPY TRADING COMPANY",
+    "payment_terms": "1) Payment Terms : Cash",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 3933.0,
+    "items_count": 3,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "WELDING ELECTRODE 7018-3.15MM D&H SECHRON (LENGTH 450)",
+        "uom": "BOX",
+        "qty": 5.0,
+        "price": 2150.0,
+        "total": 1935.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "WELDING ELECTRODE 7018-4.0MM D&H SECHRON (LENGTH 450)",
+        "uom": "BOX",
+        "qty": 3.0,
+        "price": 2300.0,
+        "total": 1242.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "WELDING ELECTRODE 7018-2.1MM D&H SECHRON (LENGTH 450)",
+        "uom": "BOX",
+        "qty": 2.0,
+        "price": 2100.0,
+        "total": 756.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "PURCHASE ABSTRACT (07-05-26)",
+    "po_no": "MMTPL/PO/LMEL/25-26/003",
+    "date": "2026-04-01",
+    "vendor": "MMTPL Approved Supplier",
+    "payment_terms": "",
+    "delivery_terms": "",
+    "taxable": 0,
+    "items_count": 0,
+    "items": []
+  },
+  {
+    "sheet": "MMTPL - XXX REFRACTORY",
+    "po_no": "MMTPL/PO/LMEL/25-26/XXX",
+    "date": "2026-04-10",
+    "vendor": "R.J INDUSTRIAL SAFETY",
+    "payment_terms": "1) Payment Terms : @100% Payment",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 15790.0,
+    "items_count": 25,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "Grinding Machine AG-5",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 6200.0,
+        "total": 6200.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 2,
+        "desc": "Cup Grinding Wheel AG-5",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 450.0,
+        "total": 450.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "4'' Nails",
+        "uom": "Kgs",
+        "qty": 5.0,
+        "price": 80.0,
+        "total": 80.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "2.5'' Nails",
+        "uom": "Kgs",
+        "qty": 50.0,
+        "price": 80.0,
+        "total": 80.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 5,
+        "desc": "3'' Nails",
+        "uom": "Kgs",
+        "qty": 50.0,
+        "price": 80.0,
+        "total": 80.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 6,
+        "desc": "5'' wood cutting blade",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 250.0,
+        "total": 250.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 7,
+        "desc": "Bosch GHO 6500 wood planner blade",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 0.0,
+        "total": 0.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 8,
+        "desc": "Carbon Brush No. 418 (Hand Mixer)",
+        "uom": "NOS",
+        "qty": 8.0,
+        "price": 180.0,
+        "total": 180.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 9,
+        "desc": "Putty Knives Scraper",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 100.0,
+        "total": 100.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 10,
+        "desc": "3 Pole  RCCB 3 Phase 63A 30mA",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 2250.0,
+        "total": 2250.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 11,
+        "desc": "4 Pole  RCCB 3 Phase 32A 30mA",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 2250.0,
+        "total": 2250.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 12,
+        "desc": "G.I Pipe 3ft",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 850.0,
+        "total": 850.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 13,
+        "desc": "GI Nut Boult Washer",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 20.0,
+        "total": 20.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 14,
+        "desc": "Earthpit Powder",
+        "uom": "Kgs",
+        "qty": 5.0,
+        "price": 50.0,
+        "total": 50.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 15,
+        "desc": "Industrial 3 pin 16A scoket Single Phase",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 120.0,
+        "total": 120.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 16,
+        "desc": "Industrial 3 pin 16A Plug Single Phase",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 120.0,
+        "total": 120.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 17,
+        "desc": "Insulation Tape",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 10.0,
+        "total": 10.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 18,
+        "desc": "Industrial 5 pin 16A scoket 3 Phase",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 150.0,
+        "total": 150.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 19,
+        "desc": "Industrial 5 pin 16A Plug 3 Phase",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 150.0,
+        "total": 150.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 20,
+        "desc": "Brick Cutting Machine Water Pump",
+        "uom": "NOS",
+        "qty": 1.0,
+        "price": 300.0,
+        "total": 300.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 21,
+        "desc": "First Aid Box (Kit)",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 0.0,
+        "total": 0.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 22,
+        "desc": "Web Sling 3 Ton X 3 Mtr",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 750.0,
+        "total": 750.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 23,
+        "desc": "Web Sling 3 Ton X 5 Mtr",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 750.0,
+        "total": 750.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 24,
+        "desc": "D' SHACKLES-3T",
+        "uom": "NOS",
+        "qty": 8.0,
+        "price": 350.0,
+        "total": 350.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 25,
+        "desc": "Caution Tape",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 250.0,
+        "total": 250.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  },
+  {
+    "sheet": "MMTPL - xxx Mechanical ",
+    "po_no": "MMTPL/PO/LMEL/26-27/005",
+    "date": "2026-04-01",
+    "vendor": "SAIFEE MACHINE TOOLS",
+    "payment_terms": "1) Payment Terms : @100% Payment",
+    "delivery_terms": "2) Delivery Terms : Immediate",
+    "taxable": 1849.0,
+    "items_count": 39,
+    "items": [
+      {
+        "sl_no": 1,
+        "desc": "WELDING CABLE",
+        "uom": "MTRS",
+        "qty": 400.0,
+        "price": 85.0,
+        "total": 400.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 2,
+        "desc": "WELDING HELMET",
+        "uom": "NOS",
+        "qty": 12.0,
+        "price": 250.0,
+        "total": 12.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 3,
+        "desc": "WELDING HOLDER",
+        "uom": "NOS",
+        "qty": 30.0,
+        "price": 300.0,
+        "total": 30.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 4,
+        "desc": "PUG M/C",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 9500.0,
+        "total": 2.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 5,
+        "desc": "PUG M/C TRACK",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 1450.0,
+        "total": 4.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 6,
+        "desc": "Pug Flash back arrestor",
+        "uom": "SET",
+        "qty": 6.0,
+        "price": 950.0,
+        "total": 6.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 7,
+        "desc": "Cutting hose(red)",
+        "uom": "MTRS",
+        "qty": 400.0,
+        "price": 45.0,
+        "total": 400.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 8,
+        "desc": "Cutting hose(blue)",
+        "uom": "MTRS",
+        "qty": 400.0,
+        "price": 45.0,
+        "total": 400.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 9,
+        "desc": "CUTTING NOZZLE (DA)-1/16",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 190.0,
+        "total": 20.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 10,
+        "desc": "CUTTING NOZZLE (DA)-3/64",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 190.0,
+        "total": 20.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 11,
+        "desc": "APRON",
+        "uom": "NOS",
+        "qty": 40.0,
+        "price": 250.0,
+        "total": 40.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 12,
+        "desc": "LED GUARD",
+        "uom": "PAIR",
+        "qty": 40.0,
+        "price": 120.0,
+        "total": 40.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 13,
+        "desc": "HAND SLEEVE",
+        "uom": "PAIR",
+        "qty": 40.0,
+        "price": 120.0,
+        "total": 40.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 14,
+        "desc": "CUTTING PLIER",
+        "uom": "NOS",
+        "qty": 10.0,
+        "price": 230.0,
+        "total": 10.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 15,
+        "desc": "SCREW SPANNER-8''",
+        "uom": "NOS",
+        "qty": 11.0,
+        "price": 250.0,
+        "total": 11.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 16,
+        "desc": "ALENKEY",
+        "uom": "SET",
+        "qty": 4.0,
+        "price": 200.0,
+        "total": 4.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 17,
+        "desc": "MEASUREMENT TAPE-5MTRS",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 90.0,
+        "total": 20.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 18,
+        "desc": "MEASUREMENT TAPE-50MTRS",
+        "uom": "NOS",
+        "qty": 5.0,
+        "price": 650.0,
+        "total": 5.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 19,
+        "desc": "WATER LEVEL HOSE",
+        "uom": "MTRS",
+        "qty": 1.0,
+        "price": 450.0,
+        "total": 1.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 20,
+        "desc": "RIGHT ANGLE-8''",
+        "uom": "NOS",
+        "qty": 15.0,
+        "price": 300.0,
+        "total": 15.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 21,
+        "desc": "D' SHACKLES-5T",
+        "uom": "NOS",
+        "qty": 16.0,
+        "price": 350.0,
+        "total": 16.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 22,
+        "desc": "D' SHACKLES-10T",
+        "uom": "NOS",
+        "qty": 16.0,
+        "price": 850.0,
+        "total": 16.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 23,
+        "desc": "D' SHACKLES-17T",
+        "uom": "NOS",
+        "qty": 8.0,
+        "price": 1750.0,
+        "total": 8.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 24,
+        "desc": "D' SHACKLES-25T",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 2850.0,
+        "total": 4.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 25,
+        "desc": "WIRE ROPE SLING-25MM X 6MTRS DOUBLE CRIMP",
+        "uom": "NOS",
+        "qty": 8.0,
+        "price": 9900.0,
+        "total": 8.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 26,
+        "desc": "WIRE ROPE SLING-20MM X 6MTRS",
+        "uom": "NOS",
+        "qty": 8.0,
+        "price": 2850.0,
+        "total": 8.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 27,
+        "desc": "WIRE ROPE SLING-16MM X 6MTRS",
+        "uom": "NOS",
+        "qty": 8.0,
+        "price": 2050.0,
+        "total": 8.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 28,
+        "desc": "WEB SLING-10TX6MTRS",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 4900.0,
+        "total": 4.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 29,
+        "desc": "WEB SLING-5TX6MTRS",
+        "uom": "NOS",
+        "qty": 8.0,
+        "price": 1450.0,
+        "total": 8.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 30,
+        "desc": "WEB SLING-3TX6MTRS",
+        "uom": "NOS",
+        "qty": 8.0,
+        "price": 1100.0,
+        "total": 8.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 31,
+        "desc": "HORIZONTAL LIFTING  CLAMP-5T",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 3800.0,
+        "total": 4.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 32,
+        "desc": "VERTICAL LIFTING CLAMP-5T",
+        "uom": "NOS",
+        "qty": 4.0,
+        "price": 5500.0,
+        "total": 4.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 33,
+        "desc": "SAFETY HELMET",
+        "uom": "NOS",
+        "qty": 25.0,
+        "price": 125.0,
+        "total": 25.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 34,
+        "desc": "SAFETY SHOES # SIZE-10",
+        "uom": "PAIR",
+        "qty": 20.0,
+        "price": 750.0,
+        "total": 20.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 35,
+        "desc": "BOLT TIEGHTNING MACHINE 3/4'' 1350 NM with 2 Battries & charger",
+        "uom": "NOS",
+        "qty": 2.0,
+        "price": 18500.0,
+        "total": 2.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 36,
+        "desc": "Box spanner- 30 mm Long drive",
+        "uom": "NOS",
+        "qty": 3.0,
+        "price": 491.0,
+        "total": 3.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 37,
+        "desc": "Box spanner- 32 mm Long drive",
+        "uom": "NOS",
+        "qty": 3.0,
+        "price": 496.0,
+        "total": 3.0,
+        "type": "CONSUMABLE"
+      },
+      {
+        "sl_no": 38,
+        "desc": "WIRE ROPE SLING- 10mm",
+        "uom": "MTRS",
+        "qty": 200.0,
+        "price": 95.0,
+        "total": 200.0,
+        "type": "ASSET"
+      },
+      {
+        "sl_no": 39,
+        "desc": "WIRE ROPE CLAMP-10 mm",
+        "uom": "NOS",
+        "qty": 20.0,
+        "price": 30.0,
+        "total": 20.0,
+        "type": "CONSUMABLE"
+      }
+    ]
+  }
+]

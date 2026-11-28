@@ -196,3 +196,101 @@ class DashboardStats(BaseModel):
     categories_breakdown: List[dict]
     top_contractor_usage: List[dict]
     recent_transactions: List[dict]
+    stock_valuation_inr: float = 0.0
+    total_procurement_commitment_inr: float = 0.0
+    total_client_billed_inr: float = 0.0
+    total_vendors: int = 0
+    total_pos: int = 0
+
+
+# --- Procurement Schemas ---
+class VendorResponse(BaseModel):
+    vendor_code: str
+    name: str
+    contact_person: Optional[str] = None
+    phone: Optional[str] = None
+    email: Optional[str] = None
+    address: Optional[str] = None
+    city: Optional[str] = None
+    state: Optional[str] = None
+    gstin: Optional[str] = None
+    bank_name: Optional[str] = None
+    account_no: Optional[str] = None
+    ifsc: Optional[str] = None
+    branch: Optional[str] = None
+    payment_terms: Optional[str] = None
+    is_active: bool = True
+    po_count: int = 0
+    total_po_value: float = 0.0
+
+    model_config = ConfigDict(from_attributes=True)
+
+
+class PurchaseOrderItemResponse(BaseModel):
+    id: int
+    po_no: str
+    sl_no: int
+    item_description: str
+    gst_rate: float
+    uom: str
+    qty: float
+    unit_price: float
+    taxable_value: float
+    remarks: Optional[str] = None
+    received_qty: float = 0.0
+    linked_item_id: Optional[str] = None
+
+    model_config = ConfigDict(from_attributes=True)
+
+
+class PurchaseOrderResponse(BaseModel):
+    po_no: str
+    po_date: datetime
+    vendor_code: str
+    vendor_name: Optional[str] = None
+    work_order_no: Optional[str] = None
+    project_site: Optional[str] = None
+    total_taxable: float
+    sgst_amount: float
+    cgst_amount: float
+    igst_amount: float
+    gross_amount: float
+    payment_terms: Optional[str] = None
+    delivery_terms: Optional[str] = None
+    prepared_by: Optional[str] = None
+    notes: Optional[str] = None
+    status: str
+    items_count: int = 0
+
+    model_config = ConfigDict(from_attributes=True)
+
+
+class PurchaseOrderDetailResponse(PurchaseOrderResponse):
+    vendor: Optional[VendorResponse] = None
+    items: List[PurchaseOrderItemResponse] = []
+
+
+# --- Client Invoice Schemas ---
+class ClientInvoiceResponse(BaseModel):
+    id: int
+    invoice_no: str
+    sl_no: Optional[int] = None
+    description: str
+    bill_no: Optional[str] = None
+    location: Optional[str] = None
+    department: Optional[str] = None
+    work_order_no: str
+    site: Optional[str] = None
+    bill_month: Optional[str] = None
+    bill_date: Optional[datetime] = None
+    bill_amount: float
+    sgst_amount: float
+    cgst_amount: float
+    gross_amount: float
+    tds_amount: float
+    gross_total_amount: float
+    received_amount: float
+    balance_amount: float
+    status: str
+
+    model_config = ConfigDict(from_attributes=True)

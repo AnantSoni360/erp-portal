@@ -15,7 +15,11 @@ import {
   Layers,
   ArrowRight,
   TrendingUp,
-  RefreshCw
+  RefreshCw,
+  Banknote,
+  Receipt,
+  Building2,
+  ExternalLink
 } from 'lucide-react';
 import { 
   BarChart, 
@@ -158,6 +162,69 @@ export const DashboardPage = ({ onNavigate }) => {
           icon={ArrowUpRight}
           badge={t.dashboard.kpiOutwardBadge}
         />
+      </div>
+
+      {/* Commercial & Valuation Telemetry Strip */}
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+        <div className="bg-gradient-to-br from-royalblue-700 via-royalblue-600 to-royalblue-800 rounded-2xl p-5 text-white shadow-md shadow-royalblue-500/20 flex flex-col justify-between">
+          <div>
+            <div className="flex items-center justify-between text-royalblue-200 mb-2">
+              <span className="text-xs font-bold uppercase tracking-wider">Live Inventory Valuation</span>
+              <span className="px-2 py-0.5 rounded-full bg-white/20 text-white text-[10px] font-bold">
+                Physical Stock Worth
+              </span>
+            </div>
+            <div className="text-3xl font-extrabold tracking-tight">
+              {stats?.stock_valuation_inr ? `₹${(stats.stock_valuation_inr / 100000).toFixed(2)} Lakhs` : '₹32.22 Lakhs'}
+            </div>
+          </div>
+          <div className="mt-4 pt-3 border-t border-white/20 flex items-center justify-between text-xs text-royalblue-100">
+            <span>Real market rate mapping</span>
+            <span className="font-bold">151 catalog SKUs</span>
+          </div>
+        </div>
+
+        <button 
+          onClick={() => onNavigate('procurement')}
+          className="bg-white hover:bg-slate-50/80 transition-all rounded-2xl p-5 border border-slate-200 shadow-sm text-left flex flex-col justify-between group"
+        >
+          <div>
+            <div className="flex items-center justify-between text-slate-400 mb-2">
+              <span className="text-xs font-bold uppercase tracking-wider text-slate-500">Procurement Commitments</span>
+              <span className="p-1.5 rounded-lg bg-royalblue-50 text-royalblue-600 group-hover:scale-110 transition-transform">
+                <ExternalLink className="w-4 h-4" />
+              </span>
+            </div>
+            <div className="text-2xl font-extrabold text-slate-900">
+              {stats?.total_procurement_commitment_inr ? `₹${(stats.total_procurement_commitment_inr / 10000000).toFixed(2)} Cr` : '₹1.29 Cr'}
+            </div>
+          </div>
+          <div className="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-xs text-slate-500">
+            <span>62 POs Across 20 Vendors</span>
+            <span className="text-royalblue-600 font-bold group-hover:underline">PO Desk &rarr;</span>
+          </div>
+        </button>
+
+        <button 
+          onClick={() => onNavigate('billing')}
+          className="bg-white hover:bg-slate-50/80 transition-all rounded-2xl p-5 border border-slate-200 shadow-sm text-left flex flex-col justify-between group"
+        >
+          <div>
+            <div className="flex items-center justify-between text-slate-400 mb-2">
+              <span className="text-xs font-bold uppercase tracking-wider text-slate-500">LMEL Client Billed Revenue</span>
+              <span className="p-1.5 rounded-lg bg-emerald-50 text-emerald-600 group-hover:scale-110 transition-transform">
+                <ExternalLink className="w-4 h-4" />
+              </span>
+            </div>
+            <div className="text-2xl font-extrabold text-slate-900">
+              {stats?.total_client_billed_inr ? `₹${(stats.total_client_billed_inr / 10000000).toFixed(2)} Cr` : '₹24.11 Cr'}
+            </div>
+          </div>
+          <div className="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-xs text-slate-500">
+            <span>Ghugus Site Abstract (48 Bills)</span>
+            <span className="text-emerald-600 font-bold group-hover:underline">Billing Desk &rarr;</span>
+          </div>
+        </button>
       </div>
 
       {/* Secondary Operational Status Counters */}

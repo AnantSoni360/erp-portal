@@ -4,7 +4,10 @@ from sqlalchemy import func, desc
 from datetime import datetime
 
 from app.database import get_db
-from app.models import MaterialMaster, InwardTransaction, ContractorTransaction, Contractor
+from app.models import (
+    MaterialMaster, InwardTransaction, ContractorTransaction, Contractor,
+    VendorMaster, PurchaseOrder, ClientInvoice
+)
 from app.schemas import DashboardStats
 from app.calculation import calculate_stock_status
 
@@ -72,6 +75,7 @@ def get_dashboard_stats(db: Session = Depends(get_db)):
     ).all()
 
     total_stock_units = 0.0
+    stock_valuation_inr = 0.0
     negative_count = 0
     reorder_count = 0
     cat_counts = {}
@@ -81,6 +85,7 @@ def get_dashboard_stats(db: Session = Depends(get_db)):
         st = calculate_stock_status(bal, mat.reorder_level, mat.name, mat.unit)
         if bal > 0:
             total_stock_units += bal
+            stock_valuation_inr += bal * float(mat.standard_unit_price or 0.0)
         if st == "Negative":
             negative_count += 1
         elif st == "Reorder":
@@ -181,6 +186,23 @@ def get_dashboard_stats(db: Session = Depends(get_db)):
 
     recent_txs.sort(key=lambda x: x["date"], reverse=True)
 
+    # Procurement & Billing stats with safe fallback
+    total_vendors = 0
+    total_pos = 0
+    total_po_gross = 0.0
+    total_client_gross = 0.0
+    try:
+        total_vendors = db.query(func.count(VendorMaster.vendor_code)).scalar() or 0
+        total_pos = db.query(func.count(PurchaseOrder.po_no)).scalar() or 0
+        total_po_gross = db.query(func.coalesce(func.sum(PurchaseOrder.gross_amount), 0.0)).filter(
+            PurchaseOrder.status != "Cancelled"
+        ).scalar() or 0.0
+        total_client_gross = db.query(func.coalesce(func.sum(ClientInvoice.gross_total_amount), 0.0)).filter(
+            ClientInvoice.status != "Cancelled"
+        ).scalar() or 0.0
+    except Exception:
+        pass
+
     return DashboardStats(
         total_materials=total_materials,
         total_active_stock_units=round(total_stock_units, 2),
@@ -194,5 +216,10 @@ def get_dashboard_stats(db: Session = Depends(get_db)):
         total_contractors=total_contractors,
         categories_breakdown=categories_breakdown,
         top_contractor_usage=top_contractor_usage,
-        recent_transactions=recent_txs[:10]
+        recent_transactions=recent_txs[:10],
+        stock_valuation_inr=round(stock_valuation_inr, 2),
+        total_procurement_commitment_inr=round(total_po_gross, 2),
+        total_client_billed_inr=round(total_client_gross, 2),
+        total_vendors=total_vendors,
+        total_pos=total_pos
     )

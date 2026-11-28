@@ -12,6 +12,8 @@ import { VerificationPage } from './pages/VerificationPage';
 import { ReconciliationPage } from './pages/ReconciliationPage';
 import { ReportsPage } from './pages/ReportsPage';
 import { AuditPage } from './pages/AuditPage';
+import { ProcurementPage } from './pages/ProcurementPage';
+import { BillingPage } from './pages/BillingPage';
 import { verificationApi } from './api';
 
 const AppContent = () => {
@@ -45,6 +47,10 @@ const AppContent = () => {
         return <TransactionsPage />;
       case 'contractors':
         return <ContractorsPage />;
+      case 'procurement':
+        return <ProcurementPage />;
+      case 'billing':
+        return <BillingPage />;
       case 'verification':
         return <VerificationPage />;
       case 'reconciliation':

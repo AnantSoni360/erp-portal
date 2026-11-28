@@ -12,13 +12,15 @@ import {
   History,
   ShieldCheck,
   Building2,
-  Box
+  Box,
+  FileText,
+  Receipt
 } from 'lucide-react';
 
 export const Sidebar = ({ activeTab, onSelectTab, pendingCount = 0 }) => {
   const { t } = useLanguage();
 
-  const menuItems = [
+  const operationsItems = [
     { id: 'dashboard', label: t.nav.dashboard, icon: LayoutDashboard },
     { id: 'materials', label: t.nav.materials, icon: Package, badge: '849 SKUs' },
     { id: 'inward', label: t.nav.inward, icon: ArrowDownLeft },
@@ -28,6 +30,11 @@ export const Sidebar = ({ activeTab, onSelectTab, pendingCount = 0 }) => {
     { id: 'reconciliation', label: t.nav.reconciliation, icon: FileSpreadsheet },
     { id: 'reports', label: t.nav.reports, icon: Download },
     { id: 'audit', label: t.nav.audit, icon: History },
+  ];
+
+  const commercialItems = [
+    { id: 'procurement', label: t.nav.procurement, icon: FileText, badge: '62 POs' },
+    { id: 'billing', label: t.nav.billing, icon: Receipt, badge: '₹27.9 Cr' },
   ];
 
   return (
@@ -49,51 +56,96 @@ export const Sidebar = ({ activeTab, onSelectTab, pendingCount = 0 }) => {
       </div>
 
       {/* Nav Menu */}
-      <nav className="flex-1 p-3.5 space-y-1 overflow-y-auto">
-        <div className="px-3 pb-2 pt-1 text-[11px] font-semibold uppercase tracking-wider text-slate-400">
-          {t.nav.operations}
+      <nav className="flex-1 p-3.5 space-y-4 overflow-y-auto">
+        <div>
+          <div className="px-3 pb-2 pt-1 text-[11px] font-semibold uppercase tracking-wider text-slate-400">
+            {t.nav.operations}
+          </div>
+
+          <div className="space-y-1">
+            {operationsItems.map((item) => {
+              const Icon = item.icon;
+              const isActive = activeTab === item.id;
+              return (
+                <button
+                  key={item.id}
+                  onClick={() => onSelectTab(item.id)}
+                  className={`w-full flex items-center justify-between px-3.5 py-2.5 rounded-xl text-xs font-semibold transition-all group ${
+                    isActive
+                      ? 'bg-royalblue-700 text-white shadow-sm shadow-royalblue-700/30'
+                      : 'text-slate-600 hover:text-royalblue-700 hover:bg-royalblue-50/70'
+                  }`}
+                >
+                  <div className="flex items-center space-x-3">
+                    <Icon
+                      className={`w-4 h-4 transition-transform group-hover:scale-110 ${
+                        isActive ? 'text-white' : 'text-slate-400 group-hover:text-royalblue-600'
+                      }`}
+                    />
+                    <span className="truncate">{item.label}</span>
+                  </div>
+
+                  {item.alertCount > 0 && (
+                    <span className={`px-2 py-0.5 rounded-full text-[10px] font-bold ${
+                      isActive ? 'bg-white text-royalblue-700' : 'bg-amber-500 text-white shadow-xs'
+                    }`}>
+                      {item.alertCount}
+                    </span>
+                  )}
+
+                  {item.badge && !item.alertCount && (
+                    <span className={`px-1.5 py-0.5 rounded text-[10px] font-medium ${
+                      isActive ? 'bg-royalblue-800 text-royalblue-100' : 'bg-slate-100 text-slate-500'
+                    }`}>
+                      {item.badge}
+                    </span>
+                  )}
+                </button>
+              );
+            })}
+          </div>
         </div>
 
-        {menuItems.map((item) => {
-          const Icon = item.icon;
-          const isActive = activeTab === item.id;
-          return (
-            <button
-              key={item.id}
-              onClick={() => onSelectTab(item.id)}
-              className={`w-full flex items-center justify-between px-3.5 py-2.5 rounded-xl text-xs font-semibold transition-all group ${
-                isActive
-                  ? 'bg-royalblue-700 text-white shadow-sm shadow-royalblue-700/30'
-                  : 'text-slate-600 hover:text-royalblue-700 hover:bg-royalblue-50/70'
-              }`}
-            >
-              <div className="flex items-center space-x-3">
-                <Icon
-                  className={`w-4 h-4 transition-transform group-hover:scale-110 ${
-                    isActive ? 'text-white' : 'text-slate-400 group-hover:text-royalblue-600'
+        <div>
+          <div className="px-3 pb-2 pt-1 text-[11px] font-semibold uppercase tracking-wider text-slate-400">
+            {t.nav.commercial}
+          </div>
+
+          <div className="space-y-1">
+            {commercialItems.map((item) => {
+              const Icon = item.icon;
+              const isActive = activeTab === item.id;
+              return (
+                <button
+                  key={item.id}
+                  onClick={() => onSelectTab(item.id)}
+                  className={`w-full flex items-center justify-between px-3.5 py-2.5 rounded-xl text-xs font-semibold transition-all group ${
+                    isActive
+                      ? 'bg-royalblue-700 text-white shadow-sm shadow-royalblue-700/30'
+                      : 'text-slate-600 hover:text-royalblue-700 hover:bg-royalblue-50/70'
                   }`}
-                />
-                <span className="truncate">{item.label}</span>
-              </div>
+                >
+                  <div className="flex items-center space-x-3">
+                    <Icon
+                      className={`w-4 h-4 transition-transform group-hover:scale-110 ${
+                        isActive ? 'text-white' : 'text-slate-400 group-hover:text-royalblue-600'
+                      }`}
+                    />
+                    <span className="truncate">{item.label}</span>
+                  </div>
 
-              {item.alertCount > 0 && (
-                <span className={`px-2 py-0.5 rounded-full text-[10px] font-bold ${
-                  isActive ? 'bg-white text-royalblue-700' : 'bg-amber-500 text-white shadow-xs'
-                }`}>
-                  {item.alertCount}
-                </span>
-              )}
-
-              {item.badge && !item.alertCount && (
-                <span className={`text-[10px] px-1.5 py-0.2 rounded font-medium ${
-                  isActive ? 'bg-royalblue-800 text-royalblue-100' : 'bg-slate-100 text-slate-500'
-                }`}>
-                  {item.badge}
-                </span>
-              )}
-            </button>
-          );
-        })}
+                  {item.badge && (
+                    <span className={`px-1.5 py-0.5 rounded text-[10px] font-medium ${
+                      isActive ? 'bg-royalblue-800 text-royalblue-100' : 'bg-slate-100 text-slate-500'
+                    }`}>
+                      {item.badge}
+                    </span>
+                  )}
+                </button>
+              );
+            })}
+          </div>
+        </div>
       </nav>
 
       {/* Footer System Status */}

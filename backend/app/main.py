@@ -6,7 +6,7 @@ from fastapi.responses import FileResponse
 
 from app.config import settings
 from app.database import engine, Base
-from app.routers import auth, dashboard, materials, inward, transactions, contractors, verification, reports, audit
+from app.routers import auth, dashboard, materials, inward, transactions, contractors, verification, reports, audit, procurement, billing
 
 # Safely ensure database tables exist without crashing on cold starts
 try:
@@ -32,8 +32,11 @@ app.add_middleware(
 )
 
 # Include API Routers (Mount with /api and also root for flexible routing)
-_all_routers = [auth.router, dashboard.router, materials.router, inward.router, 
-                transactions.router, contractors.router, verification.router, reports.router, audit.router]
+_all_routers = [
+    auth.router, dashboard.router, materials.router, inward.router, 
+    transactions.router, contractors.router, verification.router, 
+    reports.router, audit.router, procurement.router, billing.router
+]
 
 for r in _all_routers:
     app.include_router(r, prefix=settings.API_V1_STR)

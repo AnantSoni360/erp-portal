@@ -63,4 +63,19 @@ export const auditApi = {
   list: (params) => api.get('/audit', { params }),
 };
 
+export const procurementApi = {
+  getStats: () => api.get('/procurement/stats'),
+  listPOs: (params) => api.get('/procurement/pos', { params }),
+  getPODetail: (poNo) => api.get(`/procurement/pos/${encodeURIComponent(poNo)}`),
+  listVendors: () => api.get('/procurement/vendors'),
+  getVendor: (vendorCode) => api.get(`/procurement/vendors/${vendorCode}`),
+};
+
+export const billingApi = {
+  getStats: () => api.get('/billing/stats'),
+  listInvoices: (params) => api.get('/billing/invoices', { params }),
+  getByWorkOrder: () => api.get('/billing/by-workorder'),
+  getByDepartment: () => api.get('/billing/by-department'),
+};
+
 export default api;

@@ -27,7 +27,7 @@ def list_audits(
     rows = q.order_by(desc(TransactionAudit.timestamp)).offset((page - 1) * limit).limit(limit).all()
 
     return {
-        "items": rows,
+        "items": [AuditResponse.model_validate(r) for r in rows],
         "total": total_count,
         "page": page,
         "limit": limit,
